@@ -1,0 +1,9 @@
+01-14	:	Site Code(CCID)
+15-27	:	Barcode
+28-47	:	Short Description
+48-97	:	Long Description
+98-112	:	Selling Price (with 3 decimals)
+113-117	:	CFCT (1:Addition, 2: Deletion, 3:Modification)
+118-127	:	Price Start Date
+128-133	:	Consumption in Days (Product Expiry)
+134-139	:	Product Type (1: Piece, 2: Weighted)

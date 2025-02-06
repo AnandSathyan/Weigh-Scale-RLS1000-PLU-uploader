@@ -1,0 +1,10 @@
+del *.~pas /F /S /Q 
+del *.~ddp  /F /S /Q 
+del *.ddp  /F /S /Q 
+del *.~dfm   /F /S /Q 
+del *.dcu /F /S /Q 
+del *.~dsk /F /S /Q 
+del *.~dpr /F /S /Q 
+del *.~pa /F /S /Q 
+del *.exe /F /S /Q 
+del *.log /F /S /Q 

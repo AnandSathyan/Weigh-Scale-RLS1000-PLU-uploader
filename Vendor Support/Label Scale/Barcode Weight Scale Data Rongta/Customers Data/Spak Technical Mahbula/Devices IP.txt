@@ -1,0 +1,4 @@
+Fish Market - 192.168.1.87 - D1- 128-BarcodeType
+Bakery Shop - 192.168.1.88 - D0- 64-BarcodeType
+SuperMarket - 192.168.1.89 - A1-  2-BarcodeType
+

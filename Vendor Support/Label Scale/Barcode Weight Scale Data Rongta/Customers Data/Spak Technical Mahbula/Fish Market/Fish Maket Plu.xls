@@ -1,0 +1,121 @@
+Hotkey	PLU name	LF Code	Code	Barcode type	Unit Price	Weight unit	Quantity type	Department	Tare	Shelf time	Package type	Package weight	Tolerance (%)	Message 1	Message 2	Label	Discount/Schedule	Account	sPluFieldTitle20	Account	Recommended days	Nutrition	Ice Content (%)	VAT(%)
+1	Anchovy Netholi	1001	1001	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+2	Asin Seabass  Kalanji	1002	1002	101	6.5	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+3	Barrachude Cheelavu	1003	1003	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+4	Bigery Scar  Potaan Paraa	1004	1004	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+5	Boal Fish   Attu Valaa Mali	1005	1005	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+6	Black Snapper Karipetti	1006	1006	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+7	Black Leather Jacket  Adu	1007	1007	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+8	Black King fish  Motha 	1008	1008	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+9	Butter Fish Punnarameen	1009	1009	101	1.25	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+10	Car fish  Etta Koori	1010	1010	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+11	Chinese Rohu  Kayal Chemballi	1011	1011	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+12	Clam Meat  Kakka	1012	1012	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+13	Cobia  Motha	1013	1013	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+14	Crab  Njandu	1014	1014	101	1.4	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+15	Cuttle fishTonadi Kanava	1015	1015	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+16	Eel Aral Aran	1016	1016	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+17	Emperor  Kurali	1017	1017	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+18	False Travelly Parava	1018	1018	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+19	Fals Pony Fish   Parava Mullan	1019	1019	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+20	False Silver Biddy  Pranjil	1020	1020	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+21	Garfish  Kola	1021	1021	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+22	Giant Black Travelly   Velave	1022	1022	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+23	Giant Danio  Paral	1023	1023	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+24	Grey Mullet  Thirutha	1024	1024	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+25	Grouper Reef Cod   Kalava	1025	1025	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+26	Bagal Ayala 	1026	1026	101	1.5	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+27	Indian Halibut  Ayiram Palli	1027	1027	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+28	Indian Scad  Vatta Kanni	1028	1028	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+29	King Fish  Ayakoora	1029	1029	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+30	Ladyfish  Poovan	1030	1030	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+31	Lizard Fish  Kada Varaal	1031	1031	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+32	Lobster  Konjan  Dral	1032	1032	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+33	Ayala Kuwait 	1033	1033	101	1.5	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+34	Milk Fish Poomeen	1034	1034	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+35	Mussel  Chippi Kallumakaya	1035	1035	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+36	Mullet  Kanambu	1036	1036	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+37	Pasecel Pink Kilimeen	1037	1037	101	1.5	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+38	Prawns  Konju  Chemmeen Small	1038	1038	101	1.25	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+39	Peral Spot  Karimeen  koral	1039	1039	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+40	Pomfret   Avoli	1040	1040	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+41	Red Snapper  Chempalli	1041	1041	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+42	Ribbon Fish  Vaala  Thalayan	1042	1042	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+43	River Sole  Vaka Varal	1043	1043	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+44	Round Emperor  Unda Eari	1044	1044	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+45	Sail Fish  Olameen	1045	1045	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+46	Salmon  Kora (S)	1046	1046	101	2	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+47	Sardines   Chaala  Mathi	1047	1047	101	0.75	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+48	Kubath  Neymeen	1048	1048	101	2	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+49	Shark  Sravu	1049	1049	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+50	Shrimp  Big konju  Chemmen  L	1050	1050	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+51	Shrimp Scad  Vatta Paara	1051	1051	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+52	Silver Belly Avoli Mullan	1052	1052	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+53	Silver Trevally  Kannadi Vatta	1053	1053	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+54	Stingray Thirnadi	1054	1054	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+55	 Sole Fish  Manthal	1055	1055	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+56	 Squid kanava	1056	1056	101	1.75	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+57	Tuna Choora	1057	1057	101	1.5	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+58	Trevally Vatta	1058	1058	101	5.24	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+59	Shrimp Medium	1059	1059	101	5.6	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+60	Yellow Pomfret Valavadi	1060	1060	101	6.25	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+61	Tuna chilli Masala	1061	1061	101	2.5	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+62	Sword Fish Kadal Kuthira 	1062	1062	101	3.25	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+63	Tilapia Thilopia	1063	1063	101	4.5	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+64	King Fish Gaurd Masala	1064	1064	101	5.2	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+65	Shrimp Paper Masala	1065	1065	101	5.2	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+66	Kodara	1066	1066	101	1.5	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+67	Adav	1067	1067	101	1.75	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+68	Bada	1068	1068	101	1.75	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+69	Biyah Grey Mullet Thirutha	1069	1069	101	1.5	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+70	Bulthi Philopiya	1070	1070	101	1.15	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+71	Kanamb	1071	1071	101	1.75	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+72	malaga	1072	1072	101	1	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+73	Neduva  or Tirutha	1073	1073	101	2	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+74	Naymeen kuwait	1074	1074	101	3	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+75	Kilimeen Small	1075	1075	101	0.85	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+76	Salmon  Kora (L)	1076	1076	101	2.25	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+77	Poova Small Or Klimeen	1077	1077	101	0.75	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+78	Chemeen Medium	1078	1078	101	3	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+79	Sulthan Poova 	1079	1079	101	2	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+80	Ulaa Medium	1080	1080	101	2	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+81	Vangada Medium	1081	1081	101	1	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+82	Chemplly Medium	1082	1082	101	2	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+83	Ulaa Small Kuwait	1083	1083	101	1.75	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+84	King Fish or Naymeen Small	1084	1084	101	2.25	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+85	Vatta Large Kuwait	1085	1085	101	2.75	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+86	Modha Medium Kuwait	1086	1086	101	3	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+87	Prachii Mathi	1087	1087	101	2.5	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+88	Adav Small	1088	1088	101	1.5	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+89	Thiriya Medium 	1089	1089	101	2	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+90	Champally Large	1090	1090	101	2.5	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+91	Thed	1091	1091	101	1	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+92	Thiriya Large	1092	1092	101	2.75	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+93	Mix 	1093	1093	101	0.5	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+94	Ayala Dry 	1094	1094	101	2.25	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+95	Thiriya Small	1095	1095	101	1	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+96	Sulthan Poova Dry	1096	1096	101	4.75	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+97	Adav Dry 	1097	1097	101	7.5	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+98	Kilimeen Dry	1098	1098	101	3	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+99	Tuna Pickles	1099	1099	101	4.166	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+100	King fish Pickles	1100	1100	101	4.483	4	0	0	0	0	0	0	5	0	0	0	0	0		0	0	0	0	
+101	Sqiud  Pickle	1101	1101	101	4.666	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+102	Prowns pickle	1102	1102	101	4.483	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+103	Lemon pickle	1103	1103	101	2.25	4	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	
+104	Mix Lemon pickle 	1104	1104	101	2.5	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+105	Lime Sweets pickle	1105	1105	101	2.466	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+106	Lime Upilittath	1106	1106	101	2.333	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+107	Dates Carrot Sweet pickle	1107	1107	101	2.466	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+108	Tomotto pickle	1108	1108	101	2.266	4	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	
+109	Mix Veg pickle	1109	1109	101	2.4	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+110	Kadu Mango	1110	1110	101	2.333	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+111	Sweets Mango pickle 	1111	1111	101	2.4	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+112	Mango pickle	1112	1112	101	2.333	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+113	Green chilly pickle 	1113	1113	101	2.25	4	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	
+114	Sweet chilly pickle	1114	1114	101	2.5	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+115	Sweet Tarmarin	1115	1115	101	2.32	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+116	Specil Garlic pickle	1116	1116	101	2.666	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+117	Ginger pickle	1117	1117	101	2.5	4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+118	Ambazhanga Pickle (hog plum)	1118	1118	101	2.333	4	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	
+						4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	
+						4	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	

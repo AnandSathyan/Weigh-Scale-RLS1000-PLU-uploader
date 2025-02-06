@@ -1,0 +1,1020 @@
+RA1-1658-DEA  2107430000001MIMOLETTE BOULE DJEU                                                           14.950    1  20122016  3        2
+RA1-1658-DEA  2107440000001SAINT NECTAIRE /KG                                                             14.950    1  20122016  3        2
+RA1-1658-DEA  2122990000001HOUSE BEE KESHTA XL                                                             4.950    1  17122019  0        1
+RA1-1658-DEA  2122980000001HOUSE BEE CHEESE XL                                                             4.950    1  17122019  0        1
+RA1-1658-DEA  2123000000001HOUSE BEE DATE XL                                                               4.950    1  17122019  0        1
+RA1-1658-DEA  2107460000001TB HONEY MAPLE TURKE                                                           12.950    1  12012017  3        2
+RA1-1658-DEA  2196590000001RACLETTE PRESIDENT /                                                           11.950    1  14022017  3        2
+RA1-1658-DEA  2196560000001HOH TURKEY MORTADELL                                                            5.750    1  23022017  0        2
+RA1-1658-DEA  2196540000001HOH TURKEY MORTADELL                                                            5.750    1  23022017  0        2
+RA1-1658-DEA  2197170000001WILD STRAWBERRY                                                                 6.950    1  25092016  0        2
+RA1-1658-DEA  2196570000001AZZAD GOAT CHEESE/KG                                                            9.500    1  21022017  0        2
+RA1-1658-DEA  2122970000001ROASTED SIRLOIN                                                                 9.950    1  17122019  0        2
+RA1-1658-DEA  2103170000001BANANA CHIQUITA PHIL                                                             .950    1  01022018  0        2
+RA1-1658-DEA  2198290000001ROQUEFORT - 100G                                                                1.950    1  24022016  3        1
+RA1-1658-DEA  2198310000001ROQUEFORT /KG                                                                  16.050    1  24022016  3        2
+RA1-1658-DEA  2133350000001RCP CC SALTED BEEF                                                             13.000    1  17122019  0        2
+RA1-1658-DEA  2145280000001LEBANESE GREEN OLIVE                                                            3.900    1  24022016  3        2
+RA1-1658-DEA  2189820000001PF LAMB WITH ORIENTA                                                           12.900    1  17122019  0        2
+RA1-1658-DEA  2189810000001PF ESH AL BULBUL /KG                                                            8.950    1  17122019  0        2
+RA1-1658-DEA  2185520000001CANTALOP MELON CUT F                                                            1.950    1  17122019  1        1
+RA1-1658-DEA  2144100000001MANGO CUT FRUIT LARG                                                            1.950    1  17122019  1        1
+RA1-1658-DEA  2144110000001CHOPPED CARROTS                                                                  .950    1  17122019  3        1
+RA1-1658-DEA  2174320000001HOUSE BEE WITH DATES                                                            1.950    1  17122019  0        1
+RA1-1658-DEA  2131970000001PRE SHELLFISH OF THE                                                           14.900    1  17122019  0        2
+RA1-1658-DEA  2142090000001HOUSE BEE WITH KESHT                                                            1.950    1  17122019  0        1
+RA1-1658-DEA  2118360000001PINK SAUCE FOR PASTA                                                            8.000    1  17122019  0        2
+RA1-1658-DEA  2131980000001PF FATTOUSH /KG                                                                 5.900    1  17122019  0        2
+RA1-1658-DEA  2141180000001TOMATOES YALENGI                                                                3.500    1  17122019  0        2
+RA1-1658-DEA  2149050000001STRAWBERRY SLICED CU                                                            1.750    1  17122019  1        1
+RA1-1658-DEA  2131000000001GRILLED FISH HARA ST                                                           14.900    1  17122019  0        2
+RA1-1658-DEA  2131380000001ROAST BEEF PREP FOOD                                                           24.750    1  17122019  0        2
+RA1-1658-DEA  2191280000001KPF BASIL PESTO FLAV                                                            5.550    1  17122019  0        2
+RA1-1658-DEA  2165050000001GRILLED HAMMOUR FISH                                                           16.000    1  17122019  0        2
+RA1-1658-DEA  2181340000001VEAL PICCATA AL LIMO                                                           19.950    1  17122019  0        2
+RA1-1658-DEA  2161480000001MINI SPINACH FATAYER                                                             .300    1  17122019  0        1
+RA1-1658-DEA  2159830000001PF LOBSTER THERMIDOR                                                           27.500    1  17122019  0        2
+RA1-1658-DEA  2166230000001CINNAMON ROASTED PUM                                                            3.000    1  17122019  0        2
+RA1-1658-DEA  2113680000001KW PRF ROCCA & SPICE                                                           10.900    1  17122019  0        2
+RA1-1658-DEA  2121950000001KPF PRAWNS HONEY AND                                                           15.500    1  17122019  0        2
+RA1-1658-DEA  2138300000001BALSAMIC MARINATED M                                                            9.000    1  17122019  0        2
+RA1-1658-DEA  2191260000001KPF MUHAMMARAH FLAVO                                                            5.550    1  17122019  0        2
+RA1-1658-DEA  2101740000001ROASTED RED & GOLDEN                                                           10.950    1  17122019  0        2
+RA1-1658-DEA  2179780000001SOFT ASIAN CRAB CAKE                                                            6.500    1  17122019  0        2
+RA1-1658-DEA  2131680000001PF MOURABIAN /KG                                                               10.900    1  17122019  0        2
+RA1-1658-DEA  2141500000001LAMB KABAB                                                                      9.900    1  17122019  0        2
+RA1-1658-DEA  2161330000001KPF KEBBEH BELSAYNIE                                                           13.000    1  17122019  0        2
+RA1-1658-DEA  2161670000001PF PRAWNS JHAL FRIZE                                                           14.500    1  17122019  0        2
+RA1-1658-DEA  2181120000001PF BUTTER CHICKEN /K                                                            9.950    1  17122019  0        2
+RA1-1658-DEA  2174120000001PF MARINATED SHRIMPS                                                           14.900    1  17122019  0        2
+RA1-1658-DEA  2102900000001ROASTED RED & GOLDEN                                                            3.750    1  17122019  0        1
+RA1-1658-DEA  2144060000001POMEGRANATE CUT FRUI                                                            1.950    1  17122019  1        1
+RA1-1658-DEA  2144040000001LOCAL RED CABBAGE                                                                .950    1  17122019  3        1
+RA1-1658-DEA  2181660000001KPRF MINI SAUSSAGE I                                                           10.000    1  17122019  0        2
+RA1-1658-DEA  2119220000001KEBBEH BEL SAFARGEL                                                            12.950    1  17122019  0        2
+RA1-1658-DEA  2144120000001SHREDDED WHITE CABBA                                                             .950    1  17122019  3        1
+RA1-1658-DEA  2144140000001CHOPPED MIXED CAPSIC                                                            1.250    1  17122019  3        1
+RA1-1658-DEA  2141260000001HOUSE BEE WITH CHEES                                                            3.500    1  17122019  0        1
+RA1-1658-DEA  2122050000001PF MOUTABAL /KG                                                                 5.500    1  17122019  0        2
+RA1-1658-DEA  2181010000001PF CUCUMBER & YOGHUR                                                            5.500    1  17122019  0        2
+RA1-1658-DEA  2176560000001HOMEMADE CHICKEN MOR                                                           12.500    1  17122019  0        2
+RA1-1658-DEA  2113930000001KPF CHICKEN KEBABS                                                             11.900    1  17122019  0        2
+RA1-1658-DEA  2179400000001PF CHICKEN MUSHROOM                                                            10.500    1  17122019  0        2
+RA1-1658-DEA  2131780000001PF POTATO GRATIN /KG                                                            6.900    1  17122019  0        2
+RA1-1658-DEA  2161470000001MINI ZAATAR FATAYER                                                              .300    1  17122019  0        1
+RA1-1658-DEA  2159820000001COOKED TURKEY /KG                                                               3.500    1  17122019  0        2
+RA1-1658-DEA  2181690000001KPRF BRAISED RED CAB                                                            7.500    1  17122019  0        2
+RA1-1658-DEA  2165010000001STIR FRY SUBAITY FIS                                                           10.000    1  17122019  0        2
+RA1-1658-DEA  2102610000001RED THAI CHICKEN CUR                                                            9.950    1  17122019  0        2
+RA1-1658-DEA  2102720000001HAZELNUT AND PISTCHI                                                           12.950    1  17122019  0        2
+RA1-1658-DEA  2185510000001KPRO CUT WATERMELON                                                              .750    1  17122019  1        1
+RA1-1658-DEA  2144090000001KIWI CUT FRUIT LARGE                                                            1.950    1  17122019  1        1
+RA1-1658-DEA  2144030000001CHOPPED BROCCOLI                                                                1.500    1  17122019  3        1
+RA1-1658-DEA  2144050000001CHOPPED CAULIFLOWER                                                              .950    1  17122019  3        1
+RA1-1658-DEA  2118380000001MUSHROOM SAUCE FOR R                                                            9.000    1  17122019  0        2
+RA1-1658-DEA  2119280000001KPF STUFFED QUAIL WI                                                           10.000    1  17122019  0        2
+RA1-1658-DEA  2145060000001LAMB OSSO BUCCO KUWA                                                           12.950    1  17122019  0        2
+RA1-1658-DEA  2149070000001D&D MIXED FRUIT CUP                                                              .950    1  17122019  1        1
+RA1-1658-DEA  2149060000001PINEAPPLE SLICED CUP                                                            1.250    1  17122019  1        1
+RA1-1658-DEA  2181970000001MELON CUT FRUIT LARG                                                            1.950    1  17122019  1        1
+RA1-1658-DEA  2151110000001ALEPPO STYLE OLIVE S                                                            5.950    1  17122019  0        2
+RA1-1658-DEA  2154760000001KPF KEBBEH MASHWIAH                                                             3.950    1  17122019  0        1
+RA1-1658-DEA  2175420000001KPRF STUFFED ROLLED                                                             6.000    1  17122019  0        2
+RA1-1658-DEA  2151200000001PAPAYA CUT LARGE                                                                1.950    1  17122019  1        1
+RA1-1658-DEA  2144150000001CHOPPED BROCCOLI & C                                                            1.500    1  17122019  3        1
+RA1-1658-DEA  2174150000001MARINATED BABY SQUID                                                           15.000    1  17122019  0        2
+RA1-1658-DEA  2156400000001KPRF MOUTABAQ                                                                   3.900    1  17122019  0        2
+RA1-1658-DEA  2141150000001KPRF PASTA SALAD W P                                                            8.950    1  17122019  0        2
+RA1-1658-DEA  2174130000001MARINATED MUSSELS IN                                                           14.900    1  17122019  0        2
+RA1-1658-DEA  2186130000001KPF EASH SALAD                                                                  5.000    1  17122019  0        2
+RA1-1658-DEA  2186140000001PF CHICKEN & BABY SP                                                           12.500    1  17122019  0        2
+RA1-1658-DEA  2148760000001KPF COUSCOUS & GRILL                                                           10.000    1  17122019  0        2
+RA1-1658-DEA  2113870000001PF MASHED POTATOES /                                                            5.000    1  17122019  0        2
+RA1-1658-DEA  2131690000001PF STUFFED BABY MARR                                                            7.900    1  17122019  0        2
+RA1-1658-DEA  2161440000001BEEF STROGANOFF                                                                13.000    1  17122019  0        2
+RA1-1658-DEA  2161490000001MINI FATAYERSOERE PL                                                             .500    1  17122019  0        1
+RA1-1658-DEA  2161510000001MINI MEAT FATAYER                                                                .300    1  17122019  0        1
+RA1-1658-DEA  2159880000001KPF STIR-FRY VEGETAB                                                            4.900    1  17122019  0        2
+RA1-1658-DEA  2159890000001PF LASANGE /KG                                                                 10.500    1  17122019  0        2
+RA1-1658-DEA  2105410000001BABY GHERKINS SWEET                                                             6.000    1  24022016  3        2
+RA1-1658-DEA  2143780000001FORME DE AMBERT/KG                                                             13.000    1  25032015  3        2
+RA1-1658-DEA  2143810000001MANCHEGO DOP 6M /KG                                                            18.000    1  23022016  3        2
+RA1-1658-DEA  2143830000001ROQUEFORT COCCINELLE                                                           15.000    1  23022016  3        2
+RA1-1658-DEA  2104690000001GOUDA OLD AMSTERDAM                                                            19.750    1  23022016  3        2
+RA1-1658-DEA  2118650000001WYFE OF BATH /KG                                                               21.000    1  21042016  3        2
+RA1-1658-DEA  2143730000001WENSLEYDALE WITH APR                                                           13.000    1  07082017  3        2
+RA1-1658-DEA  2104800000001LAGUIOLE VON MORIN /                                                           13.000    1  23022016  3        2
+RA1-1658-DEA  2118640000001SMOKED NORTHUMBERLAN                                                           22.950    1  03082017  3        2
+RA1-1658-DEA  2167110000001BLUE D AUVERGNE VOLC                                                           13.000    1  23022016  3        2
+RA1-1658-DEA  2119430000001CARROTS BABY USA (PK                                                             .950    1  23022016  3        1
+RA1-1658-DEA  2119410000001REDCURRANT HOLLAND/                                                             1.850    1  23022016  3        1
+RA1-1658-DEA  2162680000001CELERY STICK USA KG.                                                            1.750    1  23022016  3        2
+RA1-1658-DEA  2119420000001CORN USA (PKT 125 G                                                             2.350    1  04022016  3        1
+RA1-1658-DEA  2101260000001OEA MARINATED CLASSI                                                           12.000    1  24022016  3        2
+RA1-1658-DEA  2101210000001OEA STUFFED WHOLE AL                                                           10.000    1  24022016  3        2
+RA1-1658-DEA  2105860000001INDIAN PAPAYA KG                                                                1.500    1  23022016  3        2
+RA1-1658-DEA  2104420000001MANCHEGO VEGA MANCHA                                                           13.950    1  21042016  3        2
+RA1-1658-DEA  2104070000001MORBIER PETITE BIO A                                                           14.950    1  23022016  3        2
+RA1-1658-DEA  2100390000001ASPARAGUS GREEN XL T                                                            5.950    1  23022016  3        2
+RA1-1658-DEA  2122620000001CORNISH YARG WITH GA                                                           22.000    1  03082017  3        2
+RA1-1658-DEA  2122310000001PECORINO NERO /KG                                                              21.500    1  23022016  3        2
+RA1-1658-DEA  2103950000001RACLETTE PIMPRENELLE                                                           10.950    1  23022016  3        2
+RA1-1658-DEA  2103980000001TRIPLE CREME FONTAIN                                                           16.950    1  23022016  3        2
+RA1-1658-DEA  2197310000001BLEU AUVERGNE AOP DI                                                            8.950    1  23022016  3        2
+RA1-1658-DEA  2165590000001PF VEGETARIAN LASAGN                                                            9.500    1  17122019  0        2
+RA1-1658-DEA  2119290000001KPF VEGETABLE STEW P                                                            4.900    1  17122019  0        2
+RA1-1658-DEA  2142100000001HOUSE BEE WITH KESHT                                                            3.500    1  17122019  0        1
+RA1-1658-DEA  2122030000001PF HOMMOUS /KG                                                                  5.500    1  17122019  0        2
+RA1-1658-DEA  2140280000001PF GOAT CHEESE & WAL                                                           13.500    1  17122019  0        2
+RA1-1658-DEA  2191270000001KPF GRILLED PEPPER F                                                            5.550    1  17122019  0        2
+RA1-1658-DEA  2179370000001KPF HEALTHY SPRING S                                                           10.500    1  17122019  0        2
+RA1-1658-DEA  2191250000001KPF SPRING VEG SALAD                                                            9.950    1  17122019  0        2
+RA1-1658-DEA  2181420000001HONEY GLAZED PARSNIP                                                            7.500    1  17122019  0        2
+RA1-1658-DEA  2131540000001PF CHICKEN POT PIE                                                              3.550    1  17122019  0        1
+RA1-1658-DEA  2122110000001KPF ROAST CHICKEN                                                               4.900    1  17122019  0        2
+RA1-1658-DEA  2131730000001PF VERMICELLI RICE /                                                            3.900    1  17122019  0        2
+RA1-1658-DEA  2160410000001PF STEAMED BASMATI R                                                            2.500    1  17122019  0        2
+RA1-1658-DEA  2161180000001KPF STUFFED CABBAGE                                                             7.900    1  17122019  0        2
+RA1-1658-DEA  2161460000001MINI CREAM CHEESE FA                                                             .300    1  17122019  0        1
+RA1-1658-DEA  2161500000001MINI PIZZA                                                                       .500    1  17122019  0        1
+RA1-1658-DEA  2161680000001PF CHICKEN BIRIYANI                                                             8.500    1  17122019  0        2
+RA1-1658-DEA  2165320000001KPF BUTCHERY STYLE K                                                           14.500    1  17122019  0        2
+RA1-1658-DEA  2179390000001KPF ARMAN BELLABEN                                                             18.500    1  17122019  0        2
+RA1-1658-DEA  2165270000001BEEF BRESAOLA AIR DR                                                           19.250    1  24022016  3        2
+RA1-1658-DEA  2101710000001PF CHICKEN MOUSHKAN                                                            10.900    1  17122019  0        2
+RA1-1658-DEA  2182260000001JORDANIAN GREEN OLIV                                                            1.950    1  24022016  3        2
+RA1-1658-DEA  2101250000001OEA VARIETAL BELLA D                                                           12.000    1  24022016  3        2
+RA1-1658-DEA  2104430000001EMMENTAL BIO M.& TER                                                           13.950    1  25032015  3        2
+RA1-1658-DEA  2104440000001REBLOCHON BIO /KG                                                              14.000    1  23022016  3        2
+RA1-1658-DEA  2104890000001CHABRIN TOMME CHEVRE                                                           22.750    1  23022016  3        2
+RA1-1658-DEA  2103120000001MUSHROOM PORTOBELLO                                                             5.950    1  23022016  3        2
+RA1-1658-DEA  2106010000001CUCUMBER LOCAL /KG                                                               .295    1  14062015  3        2
+RA1-1658-DEA  2197260000001PETIT CHISTERA GOAT                                                            17.000    1  11062015  3        2
+RA1-1658-DEA  2104740000001BRIN DAMOUR /KG                                                                28.000    1  23022016  3        2
+RA1-1658-DEA  2143710000001BRIE DE MEAUX ROUZAI                                                           15.000    1  23022016  3        2
+RA1-1658-DEA  2102230000001CARROTS AUSTRALIA /K                                                             .550    1  01022018  3        2
+RA1-1658-DEA  2102370000001HERBS GARGER ( ARGUL                                                            1.250    1  23022016  0        2
+RA1-1658-DEA  2163260000001SHANKLISH CHEESE                                                                3.750    1  23022016  3        2
+RA1-1658-DEA  2104280000001ROQUEFORT ROQUEBELLE                                                           19.950    1  23022016  3        2
+RA1-1658-DEA  2103560000001POTATO - CLEAN LOCAL                                                             .600    1  01022018  3        2
+RA1-1658-DEA  2107040000001HOLLAND BABY - CAPSI                                                           10.000    1  01022018  3        2
+RA1-1658-DEA  2126070000001YELLOW CHEDDAR USA                                                              4.000    1  23022016  3        2
+RA1-1658-DEA  2103970000001TOMME TROIS LAITS /K                                                           19.950    1  23022016  3        2
+RA1-1658-DEA  2105910000001BEAUFORT RESERVE /KG                                                           24.000    1  23022016  3        2
+RA1-1658-DEA  2104670000001GOUDA CUMIN ENTIER 1                                                            7.500    1  25032015  3        2
+RA1-1658-DEA  2105880000001APPENZELLER BIO /KG                                                            20.000    1  23022016  3        2
+RA1-1658-DEA  2143720000001PORT SALUT /KG                                                                 13.000    1  23022016  3        2
+RA1-1658-DEA  2143750000001ST AGUR BLUE /KG                                                               22.000    1  23022016  3        2
+RA1-1658-DEA  2104810000001GRUYERE SWITZ RESERV                                                           19.950    1  25032015  3        2
+RA1-1658-DEA  2108630000001PERI LAS BLUE /KG                                                              22.950    1  25032015  3        2
+RA1-1658-DEA  2143800000001MANCHEGO DOP SEMI CU                                                           16.000    1  25032015  3        2
+RA1-1658-DEA  2101280000001OEA CHILLI & GARLIC                                                            11.500    1  24022016  3        2
+RA1-1658-DEA  2164120000001CHEDDAR ANCHOR /KG                                                              4.900    1  25032015  3        2
+RA1-1658-DEA  2164130000001CHEDDAR BLOCK WHITE                                                             4.900    1  30082017  3        2
+RA1-1658-DEA  2106660000001APPLES GREEN /KG                                                                 .795    1  23022016  3        2
+RA1-1658-DEA  2104780000001MOELLEUX DE ST OURS                                                            13.500    1  25032015  3        2
+RA1-1658-DEA  2104760000001RACLETTE BAESCHLER A                                                            8.500    1  23022016  3        2
+RA1-1658-DEA  2108660000001WENSLEYDALE KING RIC                                                           22.750    1  25032015  3        2
+RA1-1658-DEA  2101220000001OEA VARIETAL KALAMAT                                                           12.000    1  24022016  3        2
+RA1-1658-DEA  2104220000001MIMOLETTE EXTRA VIEI                                                           26.950    1  11062015  3        2
+RA1-1658-DEA  2104240000001CABRALES BLEU /KG                                                              23.000    1  23022016  3        2
+RA1-1658-DEA  2104400000001MAHON /KG                                                                      16.000    1  25032015  3        2
+RA1-1658-DEA  2104250000001IDIAZABAL BREBIS CRU                                                           20.000    1  25032015  3        2
+RA1-1658-DEA  2104880000001COMTE BIO ARNAUD /KG                                                           19.950    1  11062015  3        2
+RA1-1658-DEA  2105920000001BASQUITOU ONETIK SHE                                                           15.950    1  23022016  3        2
+RA1-1658-DEA  2104980000001BUCHE BOURDIN HERBES                                                           10.950    1  23022016  3        2
+RA1-1658-DEA  2104960000001BUCHE BOURDIN NATURA                                                           15.950    1  23022016  3        2
+RA1-1658-DEA  2105020000001ONETIK BREBIS OSSAU                                                            17.000    1  25032015  3        2
+RA1-1658-DEA  2197280000001CANTAL ENTRE DEUX AO                                                           11.000    1  23022016  3        2
+RA1-1658-DEA  2180290000001CAPSICUM GREEN LOCAL                                                             .600    1  23022016  3        2
+RA1-1658-DEA  2105660000001COURGETE LOCAL /KG                                                               .550    1  17112015  3        2
+RA1-1658-DEA  2101630000001OEA PITTED ROSEMARY                                                            12.000    1  24022016  3        2
+RA1-1658-DEA  2119260000001KPF STUFFED CHICKEN                                                            11.900    1  17122019  0        2
+RA1-1658-DEA  2119250000001PF CHICKEN MOLUKIAH                                                             7.900    1  17122019  0        2
+RA1-1658-DEA  2145050000001KPF KUWAITI STYLE JA                                                           10.000    1  17122019  0        2
+RA1-1658-DEA  2181960000001MIXED FRUITS SALAD L                                                            1.950    1  17122019  1        1
+RA1-1658-DEA  2144070000001CACTUS FIGS CUT LARG                                                            3.500    1  17122019  1        1
+RA1-1658-DEA  2141270000001HOUSE BEE WITH DATES                                                            3.500    1  17122019  0        1
+RA1-1658-DEA  2140190000001KCHR HOMEMADE FOIS G                                                           45.000    1  17122019  0        2
+RA1-1658-DEA  2120200000001PF TABOULEH /KG                                                                 5.500    1  17122019  0        2
+RA1-1658-DEA  2181210000001PF STUFFED VINE LEAV                                                           12.900    1  17122019  0        2
+RA1-1658-DEA  2131830000001PF BABA GHANOUJ /KG                                                             5.500    1  17122019  0        2
+RA1-1658-DEA  2181230000001KPRF TOMATO MOZZAREL                                                           11.000    1  17122019  0        2
+RA1-1658-DEA  2119210000001ORIENTAL POTATO SALA                                                            5.250    1  17122019  0        2
+RA1-1658-DEA  2191300000001ARTICHOKE ISTANBULI                                                             9.950    1  17122019  0        2
+RA1-1658-DEA  2101670000001KPF QUONEA AND GIANT                                                            9.950    1  17122019  0        2
+RA1-1658-DEA  2113970000001KPF MACARONI & CHEES                                                            4.900    1  17122019  0        2
+RA1-1658-DEA  2159870000001PF GRILLED SALMON TE                                                           19.500    1  17122019  0        2
+RA1-1658-DEA  2181430000001KPRF BRUSSEL SPROUTS                                                            7.500    1  17122019  0        2
+RA1-1658-DEA  2181590000001KPRF CHESTNUT STUFFI                                                            6.950    1  17122019  0        2
+RA1-1658-DEA  2181700000001MUSHROOM SAUCE                                                                  3.950    1  17122019  0        2
+RA1-1658-DEA  2179380000001PF LAMB BIRYANI /KG                                                            10.500    1  17122019  0        2
+RA1-1658-DEA  2189840000001CHICKEN & BABY SPINA                                                            2.500    1  17122019  0        1
+RA1-1658-DEA  2160440000001AVOCADO USA KG                                                                  1.950    1  25032015  3        2
+RA1-1658-DEA  2106920000001MANGOES KG.                                                                     3.500    1  01022018  3        2
+RA1-1658-DEA  2197290000001BRIE ROYAL AUX TRUFF                                                           20.000    1  23022016  3        2
+RA1-1658-DEA  2105010000001BREBIS FERMIER PIMEN                                                           20.000    1  23022016  3        2
+RA1-1658-DEA  2143740000001WWENSLEYDALE WITH CR                                                           13.000    1  24122019  3        2
+RA1-1658-DEA  2150460000001GOAT CHEESE LOG SOIG                                                           12.950    1  25032015  3        2
+RA1-1658-DEA  2189830000001PF LAMB FREEKA MANSA                                                           12.900    1  17122019  0        2
+RA1-1658-DEA  2191460000001KCAF BEEF STROGANOFF                                                            4.950    1  17122019  0        1
+RA1-1658-DEA  2181980000001PINEAPPLE CUT FRUIT                                                             1.950    1  17122019  1        1
+RA1-1658-DEA  2144080000001DRAGONFRUIT CUT LARG                                                            3.500    1  17122019  1        1
+RA1-1658-DEA  2118340000001KFP EGG PENNE /KG                                                               1.500    1  17122019  0        2
+RA1-1658-DEA  2141170000001STUFFED BABY CAPSICU                                                            7.900    1  17122019  0        2
+RA1-1658-DEA  2150500000001PF YALANGI /KG                                                                  9.500    1  17122019  0        2
+RA1-1658-DEA  2176570000001HOMEMADE BEEF MORTAD                                                           12.500    1  17122019  0        2
+RA1-1658-DEA  2113880000001PF VEGETABLE FRIED R                                                            3.900    1  17122019  0        2
+RA1-1658-DEA  2187670000001KEBBEH SAJEAH PF                                                                3.250    1  17122019  0        1
+RA1-1658-DEA  2116300000001KPF BASHA WA ASSAKAR                                                            9.950    1  17122019  0        2
+RA1-1658-DEA  2122090000001PF DAWOOD BASHA /KG                                                            11.000    1  17122019  0        2
+RA1-1658-DEA  2131710000001KPF FREKAH WITH LAMB                                                           12.900    1  17122019  0        2
+RA1-1658-DEA  2131700000001PF KEBBEH BELABAN /K                                                            7.900    1  17122019  0        2
+RA1-1658-DEA  2181440000001CORN STUFFING /KG                                                               5.950    1  17122019  0        2
+RA1-1658-DEA  2181490000001KPRF ROASTED SWEET P                                                            5.000    1  17122019  0        2
+RA1-1658-DEA  2181540000001KPF COTTAGE PIE                                                                 8.500    1  17122019  0        2
+RA1-1658-DEA  2181650000001KPRF BREAD SAUCE                                                                2.500    1  17122019  0        2
+RA1-1658-DEA  2181730000001SAUTED GREEN BEANS W                                                            6.500    1  17122019  0        2
+RA1-1658-DEA  2150320000001KPF CHICKEN MOUSKHAN                                                           10.900    1  17122019  0        1
+RA1-1658-DEA  2186510000001PF KEBBEH SAJIA BEL                                                             2.950    1  17122019  0        1
+RA1-1658-DEA  2106980000001USA MELONS WATERMELO                                                            2.500    1  23022016  3        2
+RA1-1658-DEA  2120300000001APPLE GALA KOREA /KG                                                             .950    1  23022016  3        2
+RA1-1658-DEA  2106470000001MELON WATER KG..                                                                 .650    1  07052019  3        2
+RA1-1658-DEA  2187680000001CUSTARD APPLE / KG                                                              4.500    1  17112015  3        2
+RA1-1658-DEA  2105830000001CANTAL LAIT SALERS A                                                           13.000    1  23022016  3        2
+RA1-1658-DEA  2189260000001JENNIE O TURKEY BREA                                                           14.000    1  24022016  3        2
+RA1-1658-DEA  2126330000001LANDANA WALNUT 4KG                                                              9.950    1  25032015  3        2
+RA1-1658-DEA  2189280000001BRESOLA ITALIAN /KG                                                            22.000    1  24022016  3        2
+RA1-1658-DEA  2102060000001LEYLA FRESH LABNEH W                                                            4.000    1  25032015  3        2
+RA1-1658-DEA  2102040000001FRESH LABNEH P /KG                                                              3.500    1  15042015  3        2
+RA1-1658-DEA  2102070000001LEYLA SOFT LOW FAT /                                                            4.000    1  25032015  3        2
+RA1-1658-DEA  2162620000001MELON CANTALOP / KG                                                             1.750    1  17112015  3        2
+RA1-1658-DEA  2118730000001MEDJOOL DATES JORDAN                                                            7.500    1  01022018  3        2
+RA1-1658-DEA  2149590000001KIWI BERRIES 125G.                                                              1.895    1  01022018  3        1
+RA1-1658-DEA  2129850000001GUANABANA/ KG                                                                  12.500    1  17112015  3        2
+RA1-1658-DEA  2190930000001LETTUCE ROUGETTE WIL                                                            9.950    1  01022018  3        2
+RA1-1658-DEA  2103700000001MUCHROOM GIANT HOLLA                                                            5.000    1  01022018  3        2
+RA1-1658-DEA  2102910000001ONION WHITE USA /KG                                                              .750    1  17112015  3        2
+RA1-1658-DEA  2107010000001CABBAGE RED LOCAL /K                                                             .850    1  23022016  3        2
+RA1-1658-DEA  2105670000001LOCAL EGGPLNT ( LARG                                                             .650    1  25032015  3        2
+RA1-1658-DEA  2105420000001ONION BROWN LOCAL /K                                                             .795    1  04022016  3        2
+RA1-1658-DEA  2105890000001LOCAL ONION RED KG..                                                             .400    1  01022018  3        2
+RA1-1658-DEA  2157500000001ORGANIC CARROT                                                                  2.900    1  17112015  3        2
+RA1-1658-DEA  2126320000001ORGANIC FENNEL FOLWP                                                            2.250    1  01022018  3        2
+RA1-1658-DEA  2158590000001ORGANIC TOMATOES CHE                                                            2.000    1  01022018  3        1
+RA1-1658-DEA  2120480000001PUMPKIN RED / KG                                                                1.250    1  23022016  3        2
+RA1-1658-DEA  2162220000001CHESTNUT-1                                                                      5.500    1  23022016  3        2
+RA1-1658-DEA  2171650000001HOLLAND ASPARAGUS WH                                                            6.500    1  01022018  3        2
+RA1-1658-DEA  2140020000001ORANGE VALENCIA / KG                                                             .500    1  01022018  25       2
+RA1-1658-DEA  2140030000001USA PLUM RED KG                                                                 2.950    1  23022016  25       2
+RA1-1658-DEA  2163570000001SPANISH BLACK SLICED                                                            1.750    1  24022016  3        2
+RA1-1658-DEA  2162320000001GOUDA MEDITERRANEA F                                                            6.950    1  25032015  3        2
+RA1-1658-DEA  2199000000001GRUYERE AOC KING /KG                                                           17.900    1  20032017  3        2
+RA1-1658-DEA  2143320000001OEA PITTED CORIANDER                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2143480000001OEA HERBY PICKLED GA                                                           20.000    1  24022016  3        2
+RA1-1658-DEA  2143500000001OEA SWEET ARABIA PEP                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2122390000001CHEDDAR QUICKES EXTR                                                           17.450    1  07082017  3        2
+RA1-1658-DEA  2143600000001WHOLE FARMED SCOTTIS                                                           27.900    1  24022016  3        2
+RA1-1658-DEA  2143650000001WHOLE SIDE OF GRAVAD                                                           19.000    1  24022016  3        2
+RA1-1658-DEA  2130740000001RENNA SARDINELLA ROL                                                           17.500    1  09092019  3        2
+RA1-1658-DEA  2120430000001WATERMELON SEEDLESS                                                             2.250    1  23022016  3        2
+RA1-1658-DEA  2139570000001GRAPES BLACK EGYPT /                                                            1.950    1  23022016  3        2
+RA1-1658-DEA  2107830000001HOLLAND CHILI PEPPER                                                            3.750    1  01022018  3        2
+RA1-1658-DEA  2100770000001SWEET VINE TOMATOES                                                             3.950    1  01022018  3        2
+RA1-1658-DEA  2178980000001SWEET POTATO /KG                                                                2.250    1  23022016  3        2
+RA1-1658-DEA  2106180000001EGYPTIAN GAUVA KG                                                               1.250    1  25032015  3        2
+RA1-1658-DEA  2193680000001MELON PINEAPPLE SWEE                                                             .995    1  23022016  3        2
+RA1-1658-DEA  2186530000001BANANA CHIQUITA KG                                                               .750    1  23022016  3        2
+RA1-1658-DEA  2102590000001SALMON ENCROUTE                                                                12.950    1  17122019  0        2
+RA1-1658-DEA  2185720000001KPRO CUT POMOGRANET                                                             1.750    1  17122019  0        1
+RA1-1658-DEA  2174280000001HOUSE BEE WITH CHEES                                                            1.950    1  17122019  0        1
+RA1-1658-DEA  2118370000001BASIL PESTO SAUCE /K                                                            9.000    1  17122019  0        2
+RA1-1658-DEA  2121940000001PF PRAWN & MANGO SAL                                                           15.500    1  17122019  0        2
+RA1-1658-DEA  2151120000001D&D HOMEMADE SALMON                                                             9.500    1  17122019  0        2
+RA1-1658-DEA  2161070000001PF MUHAMMARA /KG                                                                5.500    1  17122019  0        2
+RA1-1658-DEA  2144130000001SHREDDED MIXED CABBA                                                             .950    1  17122019  3        1
+RA1-1658-DEA  2179360000001PF GRILLED HALOUMI S                                                           13.500    1  17122019  0        2
+RA1-1658-DEA  2179410000001WIDE GREEN BEAN IN O                                                            5.950    1  17122019  0        2
+RA1-1658-DEA  2103830000001PAPAYA & MELON SALAD                                                           12.500    1  17122019  0        2
+RA1-1658-DEA  2148750000001RED QUINOA & CHICKPE                                                           10.000    1  17122019  0        2
+RA1-1658-DEA  2113800000001PF GRILLED SEASONAL                                                             4.900    1  17122019  0        2
+RA1-1658-DEA  2122120000001PF HERB ROASTED POTA                                                            5.000    1  17122019  0        2
+RA1-1658-DEA  2131650000001PF OUZI /KG                                                                    10.900    1  17122019  0        2
+RA1-1658-DEA  2181600000001KPRF MEAT STUFFING                                                              9.000    1  17122019  0        2
+RA1-1658-DEA  2165430000001KPF FRESH GLAZED VEG                                                            4.900    1  17122019  0        2
+RA1-1658-DEA  2118700000001KPF HARAK OSBAAO                                                                6.000    1  17122019  0        2
+RA1-1658-DEA  2122840000001TFC TALEGGIO CHEESE                                                            18.500    1  23022016  3        2
+RA1-1658-DEA  2182220000001APRICOTS TURKISH 12.                                                            4.950    1  23022016  3        2
+RA1-1658-DEA  2103720000001TOMATOES LOCAL /KG                                                               .495    1  23022016  3        2
+RA1-1658-DEA  2102270000001GARLIC KG.                                                                       .850    1  01022018  3        2
+RA1-1658-DEA  2105540000001RENNA WHITE GARLIC /                                                           12.500    1  09092019  3        2
+RA1-1658-DEA  2105530000001OEA SICILIAN TOMOROS                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2142190000001OEA SICILIAN BIGAROS                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2105520000001OEA GREEK KABANAKI F                                                           12.000    1  24022016  3        2
+RA1-1658-DEA  2105510000001RENNA VINE LEAVES ST                                                            8.000    1  24022016  3        2
+RA1-1658-DEA  2101330000001SPIESS BEEF SALAMI /                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2101650000001SPIESS WAGYU BEEF /K                                                           34.450    1  24022016  3        2
+RA1-1658-DEA  2101560000001OEA GLOBAL MIX / KG                                                            11.000    1  24022016  3        2
+RA1-1658-DEA  2101590000001OEA PITTED CUMIN CAR                                                           12.000    1  24022016  3        2
+RA1-1658-DEA  2126030000001MOZZARELLA FRESH (CU                                                            6.950    1  30052016  3        2
+RA1-1658-DEA  2198670000001EDAM BALL CHESSE 1KG                                                            4.950    1  25032015  3        2
+RA1-1658-DEA  2198660000001EMMENTAL SWSS AOC KI                                                            8.200    1  23022016  3        2
+RA1-1658-DEA  2104390000001BEL FIURITU VENACO /                                                           23.950    1  23022016  3        2
+RA1-1658-DEA  2103680000001HALAL DRIED CHICKEN                                                            12.000    1  30082017  3        2
+RA1-1658-DEA  2104180000001ST PAULIN /KG                                                                   9.950    1  23022016  3        2
+RA1-1658-DEA  2122610000001CORNISH BLUE /KG                                                               24.000    1  03082017  3        2
+RA1-1658-DEA  2104010000001GOUDA CHEVRE /KG                                                               13.500    1  23022016  3        2
+RA1-1658-DEA  2139480000001ORANGE JUICE ARGENTI                                                             .500    1  01022018  25       2
+RA1-1658-DEA  2106460000001MANGOES AFRICAN KG.                                                             2.250    1  25032015  3        2
+RA1-1658-DEA  2105950000001PEACHES USA /KG.                                                                2.950    1  01022018  3        2
+RA1-1658-DEA  2106210000001LEMONS AFRICA /KG.                                                               .950    1  01022018  3        2
+RA1-1658-DEA  2129940000001BRIE MILD /KG                                                                   8.500    1  23022016  3        2
+RA1-1658-DEA  2129970000001PECORINO ROMANO /KG                                                            11.000    1  25032015  3        2
+RA1-1658-DEA  2162310000001FRICO GOUDA CUMIN SP                                                            5.950    1  25032015  3        2
+RA1-1658-DEA  2101120000001PARMIGIANO REGGIANO                                                            19.900    1  25032015  3        2
+RA1-1658-DEA  2101340000001FONTINA AOSTA DOP /K                                                           14.500    1  11062015  3        2
+RA1-1658-DEA  2106770000001NECTARINE KG                                                                    3.000    1  23022016  3        2
+RA1-1658-DEA  2118660000001GRAPE FRUIT RED                                                                  .600    1  23022016  3        2
+RA1-1658-DEA  2158180000001ORGANIC ORANGES NAVE                                                            3.300    1  23022016  3        2
+RA1-1658-DEA  2165630000001CHEDDAR FARMHOUSE EN                                                           25.000    1  03082017  3        2
+RA1-1658-DEA  2100990000001MONTASIO DOP /KG                                                                9.500    1  23022016  3        2
+RA1-1658-DEA  2101420000001CACIOCAVALLO SMOKED                                                            12.500    1  23022016  3        2
+RA1-1658-DEA  2125500000001GRAPES WHITE SUPERIO                                                            3.950    1  23022016  3        2
+RA1-1658-DEA  2101940000001LIME BIG EGYPT KG.                                                              1.000    1  23022016  3        2
+RA1-1658-DEA  2101970000001ORANGE JUICE LEBANON                                                             .600    1  01022018  3        2
+RA1-1658-DEA  2101980000001ORANGES LEBANON /KG.                                                             .495    1  01022018  3        2
+RA1-1658-DEA  2120460000001PITAH YELLOW COLUMBI                                                           10.950    1  01022018  3        2
+RA1-1658-DEA  2118350000001CACTUS FIGS / KG.                                                               5.950    1  01022018  1        2
+RA1-1658-DEA  2149520000001STARFRUIT CRANBERRY                                                             2.900    1  01022018  3        1
+RA1-1658-DEA  2105870000001HOLLAND FENNEL                                                                  2.700    1  23022016  3        2
+RA1-1658-DEA  2162230000001PARSNIP / KG                                                                    4.500    1  23022016  3        2
+RA1-1658-DEA  2103390000001POTATO - SWEET EGYPT                                                             .850    1  23022016  3        2
+RA1-1658-DEA  2106810000001 LEEKS HOLLAND                                                                  1.950    1  23022016  3        2
+RA1-1658-DEA  2157480000001ORGANIC CABBAGE RED.                                                            3.200    1  01022018  3        2
+RA1-1658-DEA  2190710000001RED CABBAGE                                                                      .600    1  23022016  0        2
+RA1-1658-DEA  2144350000001MUSHROOM BUTTON HOLL                                                            3.750    1  01022018  0        2
+RA1-1658-DEA  2146640000001ESSENTIALS RED YELLO                                                            2.250    1  25032015  0        1
+RA1-1658-DEA  2146650000001ESSENTIALS CAULIFLOW                                                            2.250    1  25032015  0        1
+RA1-1658-DEA  2146680000001ESSENTIALS LETTUCE S                                                            1.500    1  25032015  0        1
+RA1-1658-DEA  2163410000001GREEK BLACK OLIVES C                                                            1.950    1  24022016  3        2
+RA1-1658-DEA  2163630000001MACKDOUS                                                                        1.800    1  24022016  3        2
+RA1-1658-DEA  2100660000001PREMIER SMOKED TURKE                                                            5.000    1  24022016  3        2
+RA1-1658-DEA  2189270000001JENNIE-O TURKEY PAST                                                            7.950    1  24022016  3        2
+RA1-1658-DEA  2162390000001EDAM RED HOT BALL FR                                                            6.950    1  25032015  3        2
+RA1-1658-DEA  2144020000001RENNA SUNDRIED TOMAT                                                           12.500    1  09092019  3        2
+RA1-1658-DEA  2101320000001GRANA PADANO DOP /KG                                                           12.500    1  23022016  3        2
+RA1-1658-DEA  2101430000001PROVOLONE DOP /KG                                                              13.000    1  23022016  3        2
+RA1-1658-DEA  2122750000001QUICKES OAK SMOKED C                                                           18.000    1  07082017  3        2
+RA1-1658-DEA  2148970000001PINEAPPLE PHILLIPINE                                                             .950    1  01022018  3        2
+RA1-1658-DEA  2146600000001FRESH GREEN PISTACHI                                                            7.950    1  25032015  0        2
+RA1-1658-DEA  2118760000001DONUT PEACH FLAT.                                                               3.500    1  01022018  3        2
+RA1-1658-DEA  2105490000001LEMON LEAVES THAI /                                                             4.000    1  01022018  25       2
+RA1-1658-DEA  2102300000001GINGER/ KG                                                                       .650    1  23022016  3        2
+RA1-1658-DEA  2165350000001MUSHROOM BROWN HOLLA                                                            5.750    1  23022016  3        2
+RA1-1658-DEA  2102730000001ZUCHINI YELLOW HOLLA                                                            4.250    1  23022016  3        2
+RA1-1658-DEA  2157470000001ORGANIC CABBAGE CAUL                                                            3.600    1  23022016  3        2
+RA1-1658-DEA  2157530000001ORGANIC ONIONS 40/60                                                            1.900    1  01022018  3        1
+RA1-1658-DEA  2157810000001ORGANIC ZUCCHINI.                                                               4.500    1  01022018  3        2
+RA1-1658-DEA  2158580000001ORGANIC POTATOES.                                                               4.500    1  01022018  3        1
+RA1-1658-DEA  2146620000001ESSENTIALS BROCCOLI                                                             2.250    1  25032015  0        1
+RA1-1658-DEA  2146660000001ESSENTIALS RED&WHITE                                                            1.750    1  25032015  0        1
+RA1-1658-DEA  2162860000001USA APRICOT KG.                                                                 4.500    1  01022018  25       2
+RA1-1658-DEA  2105570000001AUSTRALIAN APRICOT K                                                            4.950    1  23022016  3        2
+RA1-1658-DEA  2126040000001EMMENTAL FRENCH BLOC                                                            5.000    1  25032015  3        2
+RA1-1658-DEA  2101380000001GORGONZOLA DOP DOLCE                                                            9.000    1  11062015  3        2
+RA1-1658-DEA  2126160000001BEEF FRANKS /KG                                                                 4.000    1  24022016  3        2
+RA1-1658-DEA  2100040000001LEYLA LABNEH BALL WI                                                            6.000    1  25032015  3        2
+RA1-1658-DEA  2100080000001LEYLA BULGARI SALTED                                                            5.000    1  25032015  3        2
+RA1-1658-DEA  2100140000001LEYLA AKAWI CHEESE /                                                            4.000    1  25032015  3        2
+RA1-1658-DEA  2143390000001OEA STUFFED FLORINI                                                            15.000    1  24022016  3        2
+RA1-1658-DEA  2143570000001TURKEY WHOLE 14 - 16                                                            2.500    1  24022016  3        2
+RA1-1658-DEA  2143640000001WHOLE SIDE OF GRAVAD                                                           19.000    1  24022016  3        2
+RA1-1658-DEA  2140850000001RENNA GRILLED ARTICH                                                           17.500    1  09092019  3        2
+RA1-1658-DEA  2140000000001FIGS BRAZIL KG                                                                  8.500    1  17112015  3        2
+RA1-1658-DEA  2102140000001COLOMBIAN PASSION FR                                                            6.950    1  17112015  3        2
+RA1-1658-DEA  2100130000001HALLOUMI PLAIN FRESH                                                            5.000    1  25032015  3        2
+RA1-1658-DEA  2105430000001HOLLAND BABY - CAPSI                                                            8.500    1  01022018  3        2
+RA1-1658-DEA  2157460000001ORGANIC BROCCOLI.                                                               6.950    1  01022018  3        2
+RA1-1658-DEA  2105640000001PASSION FRUIT YELLOW                                                            7.950    1  01022018  3        2
+RA1-1658-DEA  2105360000001HOLLAND YELLOW QUINC                                                            4.500    1  17112015  3        2
+RA1-1658-DEA  2118770000001APPLE GOLDEN JUMBO.                                                             1.500    1  23022016  3        2
+RA1-1658-DEA  2186400000001MANDARINE/-- KG                                                                 1.100    1  01022018  3        2
+RA1-1658-DEA  2165550000001RASPBERRY HOLLAND (P                                                            1.895    1  01022018  3        1
+RA1-1658-DEA  2152610000001ALPHONSO MANGO.                                                                 2.950    1  23022016  3        2
+RA1-1658-DEA  2102130000001LOQUATS / KG.                                                                   2.900    1  01022018  3        2
+RA1-1658-DEA  2187660000001MANDARIN SPAIN / KG.                                                            2.000    1  01022018  3        2
+RA1-1658-DEA  2149890000001RASPBERRY HOLLAND 12                                                            1.950    1  01022018  0        1
+RA1-1658-DEA  2106860000001THAI LEMON GRASS KG                                                             3.500    1  23022016  3        2
+RA1-1658-DEA  2106030000001HOLLAND HOT CHILLI R                                                            4.500    1  17112015  3        2
+RA1-1658-DEA  2107600000001HOLLAND CHILI PEPPER                                                            6.750    1  01022018  3        2
+RA1-1658-DEA  2103590000001BEANS SPROUTS HOLLAN                                                            3.500    1  23022016  3        2
+RA1-1658-DEA  2103270000001BRUSSELS SPROUTS HOL                                                            2.950    1  07052019  3        2
+RA1-1658-DEA  2103340000001TOMATO CHERRY GRAPES                                                            4.950    1  23022016  3        2
+RA1-1658-DEA  2105990000001CABBAGE WHITE LOCAL                                                              .650    1  01022018  3        2
+RA1-1658-DEA  2158200000001ORGANIC CABBAGE POIN                                                            3.700    1  17112015  3        2
+RA1-1658-DEA  2139650000001JORDAN STRAWBERRY KG                                                            3.950    1  01022018  25       2
+RA1-1658-DEA  2162330000001FRICO GOUDA WHEEL CH                                                            5.500    1  25032015  3        2
+RA1-1658-DEA  2164110000001EMMENTAL CHEESE/ KG                                                             4.900    1  25032015  3        2
+RA1-1658-DEA  2101440000001PECORINO CORATINO /K                                                           22.950    1  23022016  3        2
+RA1-1658-DEA  2143980000001RENNA GREEN OLIVES D                                                           12.500    1  09092019  3        2
+RA1-1658-DEA  2143340000001OEA PITTED MATURED K                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2122770000001QUICKES VINTAGE CHED                                                           21.000    1  07082017  3        2
+RA1-1658-DEA  2143370000001OEA PITTED HERB & PI                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2143400000001OEA STUFFED JALAPENO                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2143460000001OEA SWEET CURED CORN                                                           10.000    1  24022016  3        2
+RA1-1658-DEA  2143520000001OEA STUFFED VERY GAR                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2143530000001HOH SMOKED TURKEY BR                                                           14.000    1  24022016  3        2
+RA1-1658-DEA  2122590000001TFC COMTE AOC BADOZ                                                            23.000    1  23022016  3        2
+RA1-1658-DEA  2122400000001QUICKES GOAT CHEDDAR                                                           25.000    1  23022016  3        2
+RA1-1658-DEA  2143660000001CORNED BEEF BRISKET                                                            12.000    1  24022016  3        2
+RA1-1658-DEA  2143890000001GH FARMED OSCIETRA C                                                          750.000    1  24022016  3        2
+RA1-1658-DEA  2102050000001LEYLA FRESH LABNEH W                                                            4.000    1  23022016  3        2
+RA1-1658-DEA  2100030000001LABNEH BALL PLAIN /K                                                            6.000    1  23022016  3        2
+RA1-1658-DEA  2143410000001OEA VARIETAL EXTRA L                                                             .001    1  24022016  3        2
+RA1-1658-DEA  2143450000001OEA ITALIAN CRUDOTTO                                                           20.000    1  24022016  3        2
+RA1-1658-DEA  2143470000001OEA DOLMADES /KG (YA                                                            7.000    1  24022016  3        2
+RA1-1658-DEA  2122630000001CORNISH YARG /KG                                                               20.000    1  03082017  3        2
+RA1-1658-DEA  2143610000001WHOLE WILD SCOTTISH                                                            57.900    1  24022016  3        2
+RA1-1658-DEA  2126450000001LANDANA GOAT CHEESE                                                            13.950    1  23022016  3        2
+RA1-1658-DEA  2187700000001SPIESS BRESOLA /KG                                                             15.950    1  24022016  3        2
+RA1-1658-DEA  2130700000001RENNA MEDITERRANEAN                                                            13.000    1  24022016  3        2
+RA1-1658-DEA  2130960000001RENNA GRILLED PEPPER                                                           12.500    1  09092019  3        2
+RA1-1658-DEA  2140880000001MUSHROOMS SALAD FORE                                                            6.000    1  24022016  3        2
+RA1-1658-DEA  2140920000001RENNA PEPPERS ZEFIRI                                                           13.000    1  24022016  3        2
+RA1-1658-DEA  2181320000001ARGENTINA LEMON KG.                                                             1.000    1  01022018  25       2
+RA1-1658-DEA  2139990000001EGYPT MELON CANTALOP                                                            1.000    1  17112015  25       2
+RA1-1658-DEA  2139290000001STAR FRUIT CAPSICUM                                                             2.950    1  23022016  3        2
+RA1-1658-DEA  2167350000001CAPSICUM RED HOLLAND                                                             .001    1  23022016  25       2
+RA1-1658-DEA  2158630000001ORGANIC TOMATOES VIN                                                            2.250    1  01022018  3        1
+RA1-1658-DEA  2106970000001LEBANEES POMELLO KG.                                                             .650    1  25032015  3        2
+RA1-1658-DEA  2167970000001DRAGON FRUIT PITAHAY                                                            3.500    1  25032015  1        2
+RA1-1658-DEA  2102080000001DRAGON FRUITS TAHI K                                                            3.750    1  04082015  3        2
+RA1-1658-DEA  2155920000001STRAWBERRY JUMBO U.S                                                            5.950    1  23022016  3        1
+RA1-1658-DEA  2101030000001MANGO EGYPT / KG                                                                1.900    1  23022016  3        2
+RA1-1658-DEA  2101920000001GREEN ALMOND / KG                                                               1.700    1  23022016  3        2
+RA1-1658-DEA  2160470000001GRAPES BLACK / KG                                                               2.950    1  23022016  3        2
+RA1-1658-DEA  2194360000001USA NECTARINES YELLO                                                            2.100    1  01022018  3        2
+RA1-1658-DEA  2143550000001HOH TURKEY PAPRIKA B                                                           14.000    1  24022016  3        2
+RA1-1658-DEA  2122560000001COASTAL BLOCK CHEDDA                                                           13.500    1  07082017  3        2
+RA1-1658-DEA  2143680000001ROAST BEEF EYE ROUND                                                           12.000    1  24022016  3        2
+RA1-1658-DEA  2126420000001LANDANA GOAT /KG                                                               12.950    1  23022016  3        2
+RA1-1658-DEA  2126430000001LANDANA GOAT CHEESE                                                            13.950    1  23022016  3        2
+RA1-1658-DEA  2126440000001LANDANA GOAT CHEESE                                                            13.950    1  23022016  3        2
+RA1-1658-DEA  2126460000001LANDANA WILD GARLIC                                                             9.950    1  23022016  3        2
+RA1-1658-DEA  2126500000001LANDANA TOMATO/OLIVE                                                            9.950    1  23022016  3        2
+RA1-1658-DEA  2130600000001RENNA ANTIPASTO ITAL                                                           12.500    1  09092019  3        2
+RA1-1658-DEA  2126480000001EYSSEN SMOKED CHEESE                                                            7.950    1  25032015  3        2
+RA1-1658-DEA  2120370000001PLUM RED / KG                                                                   3.950    1  23022016  3        2
+RA1-1658-DEA  2125490000001USA RED GRAPES KG.                                                              2.500    1  07052019  3        2
+RA1-1658-DEA  2109180000001GRAPES RED EGYPT /KG                                                            2.450    1  01022018  3        2
+RA1-1658-DEA  2143860000001PEACHES FLAT SPAIN /                                                            3.750    1  01022018  0        2
+RA1-1658-DEA  2106990000001FIGS KG.                                                                        7.950    1  01022018  3        2
+RA1-1658-DEA  2105960000001POMEGRANATE INDIAN K                                                            2.950    1  23022016  1        2
+RA1-1658-DEA  2106160000001CHINESE APPLES FUGI                                                              .850    1  23022016  3        2
+RA1-1658-DEA  2125380000001GRAPES BLACK HOLLAND                                                            2.950    1  23022016  3        2
+RA1-1658-DEA  2165360000001RAMBOUTAN VIETNAM KG                                                            5.500    1  01022018  3        2
+RA1-1658-DEA  2109150000001GRAPES WHITE USA /KG                                                            2.750    1  01022018  3        2
+RA1-1658-DEA  2146590000001FRESH ENAB/ KG                                                                  7.950    1  25032015  0        2
+RA1-1658-DEA  2105390000001INDIAN HOT CHILLI GR                                                            1.000    1  23022016  3        2
+RA1-1658-DEA  2130720000001RENNA MARINATED ANCH                                                           16.000    1  24022016  3        2
+RA1-1658-DEA  2158620000001ORGANIC TOMATOES ROU                                                            2.600    1  25032015  3        1
+RA1-1658-DEA  2108560000001USA SWEET POTATOES G                                                            2.000    1  01022018  3        2
+RA1-1658-DEA  2107860000001HOLLAND KAKIFRUIT/PE                                                            3.750    1  25032015  3        2
+RA1-1658-DEA  2140870000001RENNA GRILLED CHAMPI                                                           12.500    1  09092019  3        2
+RA1-1658-DEA  2126470000001EYSSEN SMOKED CHEESE                                                            7.950    1  25032015  3        2
+RA1-1658-DEA  2186490000001APPLES GREEN JUMBO                                                              1.500    1  23022016  25       2
+RA1-1658-DEA  2139300000001CAPSICUM YELLOW EGYP                                                            2.950    1  01022018  3        2
+RA1-1658-DEA  2106280000001CAULIFLOWER LOCAL /K                                                             .795    1  23022016  3        2
+RA1-1658-DEA  2146720000001ESSENTIALS BROCCOLI                                                             1.000    1  25032015  0        1
+RA1-1658-DEA  2157660000001ORGANIC AVOCADO                                                                 5.700    1  25032015  3        2
+RA1-1658-DEA  2101880000001APPLES RED USA /KG                                                               .950    1  23022016  3        2
+RA1-1658-DEA  2170970000001PERSIMMONS.                                                                     2.500    1  01022018  3        2
+RA1-1658-DEA  2159530000001HOLLAND KAKIFRUIT/PE                                                            3.750    1  01022018  3        2
+RA1-1658-DEA  2196120000001GOUDA OLD WINCHESTER                                                           22.950    1  21092017  3        2
+RA1-1658-DEA  2133430000001PF EGGPLANT ABLAMAH                                                             7.900    1  17122019  0        2
+RA1-1658-DEA  2133390000001PF CHARSIU STRIPLOIN                                                           15.500    1  17122019  0        2
+RA1-1658-DEA  2133410000001PF POTATO / GREEN BE                                                           13.500    1  17122019  0        2
+RA1-1658-DEA  2133420000001PF SPRING VEG SALAD                                                            10.500    1  17122019  0        2
+RA1-1658-DEA  2133380000001PF BALSAMIC CHICKEN                                                            13.500    1  17122019  0        2
+RA1-1658-DEA  2133370000001PF 5 GRAIN SALAD WIT                                                           13.500    1  17122019  0        2
+RA1-1658-DEA  2133400000001PF RAW PAPAYA & CHIC                                                           13.500    1  17122019  0        2
+RA1-1658-DEA  2133440000001PF MUTTON SULTAN CUR                                                            9.950    1  17122019  0        2
+RA1-1658-DEA  2123160000001CHOCOLATE MANGO & PA                                                            1.950    1  17122019  0        1
+RA1-1658-DEA  2123140000001APRICOT CAKE                                                                    2.500    1  17122019  0        1
+RA1-1658-DEA  2123210000001MIX GREEN SALAD/ KG                                                             8.500    1  17122019  0        2
+RA1-1658-DEA  2123220000001GRILLED HAMOUR/ KG (                                                           17.500    1  17122019  0        2
+RA1-1658-DEA  2196130000001TURKEY BREAST SMOKED                                                            4.950    1  12092017  3        2
+RA1-1658-DEA  2195790000001EMMENTAL DE SAVOIE C                                                           22.500    1  28012018  0        1
+RA1-1658-DEA  2195580000001ABONDANCE COWS MILK                                                             2.500    1  28012018  0        2
+RA1-1658-DEA  2195700000001EMMENTAL DE SAVOIE C                                                           21.500    1  28012018  0        2
+RA1-1658-DEA  2195730000001ABONDANCE COWS MILK                                                            21.500    1  28012018  0        1
+RA1-1658-DEA  2194620000001KALE GREEN /  KG.                                                               6.950    1  16092018  0        2
+RA1-1658-DEA  2194610000001DD STRAWBERRY DANISH                                                            1.250    1  04112018  0        1
+RA1-1658-DEA  2194600000001DD BRIOCHE WITH NUTE                                                             .950    1  04112018  0        1
+RA1-1658-DEA  2137280000001PF OKRA IN STEW /KG                                                             8.500    1  17122019  0        2
+RA1-1658-DEA  2137410000001OKRA IN OIL                                                                     2.900    1  17122019  0        2
+RA1-1658-DEA  2195300000001EDAM 40% FAT IDM 6X1                                                            5.500    1  12032018  0        2
+RA1-1658-DEA  2195310000001MAASDAM 12KG WHEEL                                                              6.250    1  12032018  0        2
+RA1-1658-DEA  2195290000001RED CHEDDAR BLOCK                                                               4.950    1  12032018  0        2
+RA1-1658-DEA  2195240000001GRILLED TURKEY BREAS                                                            9.000    1  12032018  3        2
+RA1-1658-DEA  2195320000001GRAN MORAVIA 4KG                                                                5.750    1  12032018  0        2
+RA1-1658-DEA  2195200000001ROQUEFORT BONGRAIN P                                                           18.750    1  12032018  0        2
+RA1-1658-DEA  2195260000001SMOKED TURKEY SALAMI                                                            6.500    1  12032018  0        2
+RA1-1658-DEA  2195270000001CHICKEN MOROCCAN STY                                                            8.000    1  12032018  3        2
+RA1-1658-DEA  2195230000001SMOKED TURKEY BREAST                                                            9.000    1  12032018  3        2
+RA1-1658-DEA  2195210000001BONGRAIN PAPILLON RO                                                           20.000    1  12032018  0        2
+RA1-1658-DEA  2195220000001BRIE BONGRAIN ILE DE                                                            8.250    1  12032018  0        2
+RA1-1658-DEA  2143960000001RENNA PITTED GREEN O                                                           10.000    1  09092019  3        2
+RA1-1658-DEA  2140050000001ONION RED INDIA KG.                                                              .400    1  01022018  25       2
+RA1-1658-DEA  2140460000001CABBAGE WHITE JORDAN                                                             .400    1  01022018  25       2
+RA1-1658-DEA  2103570000001SNOW PEAS KENYA KG                                                              4.950    1  23022016  3        2
+RA1-1658-DEA  2106540000001LETTUCE ICEBERG /PC                                                             1.950    1  23022016  3        2
+RA1-1658-DEA  2145110000001CELERY ROOTS HOLLAND                                                            2.250    1  01022018  3        2
+RA1-1658-DEA  2146670000001ESSENTIALS OKRA CORE                                                            1.500    1  25032015  0        1
+RA1-1658-DEA  2142210000001KOHLRABI                                                                        2.950    1  23022016  3        2
+RA1-1658-DEA  2140320000001FIGS TURKEY KG                                                                  2.250    1  17112015  25       2
+RA1-1658-DEA  2160240000001MANGOSTANE THAILAND                                                             6.950    1  04022016  3        2
+RA1-1658-DEA  2157580000001ORGANIC GRAPEFRUIT.                                                             3.100    1  01022018  3        2
+RA1-1658-DEA  2158170000001ORGANIC LEMONS..                                                                2.950    1  01022018  3        2
+RA1-1658-DEA  2158190000001ORGANIC PEARS.                                                                  3.300    1  01022018  3        2
+RA1-1658-DEA  2125510000001GRAPES PALLERI BLACK                                                            2.950    1  17112015  3        2
+RA1-1658-DEA  2102100000001LYCHEES FRESH KG                                                                5.500    1  25032015  3        2
+RA1-1658-DEA  2180280000001MANGOSTAN THAI KG.                                                              4.000    1  01022018  3        2
+RA1-1658-DEA  2159240000001ORGANIC KIWI PKT.                                                               3.500    1  01022018  3        1
+RA1-1658-DEA  2199200000001GRAPES WHITE EGYPT /                                                            1.950    1  25032015  3        2
+RA1-1658-DEA  2139010000001ORG PEARS DANJOU / K                                                            2.500    1  01022018  3        2
+RA1-1658-DEA  2180340000001STRAWBERRIES GREECE                                                             3.950    1  01022018  0        2
+RA1-1658-DEA  2127890000001ORANGE MAWARDI                                                                  1.250    1  17112015  3        2
+RA1-1658-DEA  2196040000001USA AVOCADOS HASS.                                                              3.000    1  01022018  3        2
+RA1-1658-DEA  2118740000001FIGS JORDAN KG                                                                  2.500    1  17112015  3        2
+RA1-1658-DEA  2118750000001POMEGRANATE-1                                                                   1.500    1  23022016  1        2
+RA1-1658-DEA  2186270000001MANGO FAS / KG                                                                  3.950    1  17112015  3        2
+RA1-1658-DEA  2158520000001ORGANIC GARLIC.                                                                 7.000    1  25032015  3        2
+RA1-1658-DEA  2102400000001HERBS PARSLEY LOCAL                                                             1.250    1  01022018  0        2
+RA1-1658-DEA  2160520000001PARSNIP HOLLAND KILO                                                            4.500    1  01022018  0        2
+RA1-1658-DEA  2104490000001BROCOLLI USA KG                                                                 3.000    1  23022016  3        2
+RA1-1658-DEA  2139460000001ONION WHITE LEBANON                                                              .550    1  17112015  25       2
+RA1-1658-DEA  2102680000001BABY - SPINACH KG-1.                                                            9.950    1  01022018  3        2
+RA1-1658-DEA  2100050000001BEEF ROAST                                                                      5.750    1  24022016  3        2
+RA1-1658-DEA  2100200000001LABANAH (COW) BALL /                                                            5.500    1  24022016  3        2
+RA1-1658-DEA  2100100000001DUCK BREAST SMOKED                                                             20.000    1  24022016  3        2
+RA1-1658-DEA  2100090000001SMOKED TURKEY BREAST                                                            6.000    1  24022016  3        2
+RA1-1658-DEA  2100110000001DUCK BREAST RAW                                                                10.000    1  24022016  3        2
+RA1-1658-DEA  2108150000001HOLLAND PLUMS YELLOW                                                            2.950    1  23022016  3        2
+RA1-1658-DEA  2106150000001BARLOTTI BEAN LEBANO                                                            1.000    1  23022016  3        2
+RA1-1658-DEA  2165380000001HOLLAND LETTUCE - LO                                                            5.500    1  23022016  3        2
+RA1-1658-DEA  2157670000001ORGANIC BEETROOT.                                                               1.950    1  01022018  3        1
+RA1-1658-DEA  2157760000001ORGANIC SWEET CORN.                                                             2.950    1  01022018  3        1
+RA1-1658-DEA  2158560000001ORGANIC MUSHROOMS CH                                                            2.500    1  01022018  3        1
+RA1-1658-DEA  2148960000001MUSHROOM MINI SHITAK                                                           10.500    1  23022016  0        2
+RA1-1658-DEA  2146580000001ESSENTIALS ZUCCHINI                                                             2.250    1  25032015  0        1
+RA1-1658-DEA  2146690000001ESSENTIALS CARROTS S                                                            1.250    1  25032015  0        1
+RA1-1658-DEA  2139100000001GRAPES RED EGYPT KG                                                             1.950    1  25032015  3        2
+RA1-1658-DEA  2106690000001CHERRIES SPAIN KG                                                               6.000    1  23022016  3        2
+RA1-1658-DEA  2163430000001GREEK KALAMATA BLACK                                                            1.950    1  24022016  3        2
+RA1-1658-DEA  2192510000001MASCARPONE 500GM                                                                4.000    1  25032015  3        1
+RA1-1658-DEA  2195280000001MATURE W CHEDDAR                                                                4.950    1  12032018  0        2
+RA1-1658-DEA  2195330000001GRANA PADANO DOP 4KG                                                            6.250    1  12032018  0        2
+RA1-1658-DEA  2195340000001PARMIGIANO REGGIANO                                                             9.250    1  12032018  0        2
+RA1-1658-DEA  2138940000001DD OLIVE ROLL                                                                    .350    1  27082018  0        1
+RA1-1658-DEA  2138670000001DD RASPBERRY MUFFIN                                                             1.250    1  27082018  0        1
+RA1-1658-DEA  2138850000001DD SOURDOUGH CHEESE                                                             1.950    1  27082018  0        1
+RA1-1658-DEA  2138870000001DD BRIOCHE ROUND                                                                 .950    1  27082018  0        1
+RA1-1658-DEA  2138570000001DD BRIOCHE WITH ALMO                                                             .950    1  27082018  0        1
+RA1-1658-DEA  2138580000001DD BRIOCHE WITH CUST                                                             .950    1  27082018  0        1
+RA1-1658-DEA  2138640000001DD FRUIT HORSE SHOE                                                              .950    1  27082018  0        1
+RA1-1658-DEA  2138700000001DD ZAATAR CHEESE & T                                                            1.250    1  27082018  0        1
+RA1-1658-DEA  2138760000001DD MULTIGRAIN BATARD                                                            1.950    1  27082018  0        1
+RA1-1658-DEA  2138840000001DD SOURDOUGH WHITE L                                                            1.250    1  27082018  0        1
+RA1-1658-DEA  2138630000001DD DOUBLE CHOCOLATE                                                             1.250    1  27082018  0        1
+RA1-1658-DEA  2138720000001DD BAGUETTE                                                                      .950    1  27082018  0        1
+RA1-1658-DEA  2138770000001DD SOURDOUGH BLOOMER                                                            1.500    1  27082018  0        1
+RA1-1658-DEA  2138800000001DD MULTIGRAIN LOAF                                                              1.950    1  27082018  0        1
+RA1-1658-DEA  2138820000001DD SOURDOUGH WITH WA                                                            2.500    1  27082018  0        1
+RA1-1658-DEA  2138900000001DD ZAATAR FOCACCIA                                                               .950    1  27082018  0        1
+RA1-1658-DEA  2138590000001DD BRIOCHE WITH PEAR                                                             .950    1  27082018  0        1
+RA1-1658-DEA  2138620000001DD CROISSANT                                                                     .950    1  27082018  0        1
+RA1-1658-DEA  2195910000001ARTICHOKE WITH STEM                                                             6.000    1  12122017  0        2
+RA1-1658-DEA  2195890000001MUSHROOM MUSCHIO IN                                                             5.500    1  12122017  0        2
+RA1-1658-DEA  2195860000001SUNDRIED TOMATO IN O                                                            4.500    1  12122017  0        2
+RA1-1658-DEA  2195880000001CAPERS IN VINEGAR 2.                                                            4.000    1  12122017  0        2
+RA1-1658-DEA  2195870000001ARTICHOKE HEARTS IN                                                             6.000    1  12122017  0        2
+RA1-1658-DEA  2138690000001DD ZAATAR CROISSANT                                                              .950    1  27082018  0        1
+RA1-1658-DEA  2138890000001DD CHEDDAR CHEESE FO                                                             .950    1  27082018  0        1
+RA1-1658-DEA  2138600000001DD CARAMALIZED APPLE                                                             .950    1  27082018  0        1
+RA1-1658-DEA  2138610000001DD CARAMEL MUFFIN                                                               1.250    1  27082018  0        1
+RA1-1658-DEA  2138660000001DD PLAIN DANISH                                                                  .950    1  27082018  0        1
+RA1-1658-DEA  2138680000001DD WALNUT ESCARGOT D                                                             .950    1  27082018  0        1
+RA1-1658-DEA  2138980000001DD CIABATTA                                                                      .500    1  27082018  0        1
+RA1-1658-DEA  2138790000001DD SOURDOUGH BREAD C                                                            1.500    1  27082018  0        1
+RA1-1658-DEA  2138860000001DD RYE SOURDOUGH                                                                1.950    1  27082018  0        1
+RA1-1658-DEA  2138880000001DD TOMATO & BASIL FO                                                             .950    1  27082018  0        1
+RA1-1658-DEA  2139040000001DD SLIDER BUN                                                                    .250    1  27082018  0        1
+RA1-1658-DEA  2138730000001DD MULTIGRAIN BAGUET                                                             .750    1  27082018  0        1
+RA1-1658-DEA  2138930000001DD CHEESE ROLLL                                                                  .350    1  27082018  0        1
+RA1-1658-DEA  2138560000001DD PEACH DANISH                                                                 1.250    1  27082018  0        1
+RA1-1658-DEA  2138650000001DD PAIN AU CHOCOLAT                                                              .950    1  27082018  0        1
+RA1-1658-DEA  2138710000001DD MULTIGRAIN BAGUET                                                            1.250    1  27082018  0        1
+RA1-1658-DEA  2138750000001DD MULTIGRAIN BREAD                                                             1.950    1  27082018  0        1
+RA1-1658-DEA  2138950000001DD BURGER BUN                                                                    .350    1  27082018  0        1
+RA1-1658-DEA  2138970000001DD CIABATTA MINI                                                                 .350    1  27082018  0        1
+RA1-1658-DEA  2139050000001DD ZAATAR & CHEESE B                                                             .950    1  27082018  0        1
+RA1-1658-DEA  2138740000001DD BAGUETTE DEMI                                                                 .500    1  27082018  0        1
+RA1-1658-DEA  2138780000001DD WHITE RUSTIC BLOO                                                            1.500    1  27082018  0        1
+RA1-1658-DEA  2138830000001DD SOURDOUGH WITH OL                                                            1.500    1  27082018  0        1
+RA1-1658-DEA  2143970000001RENNA PITTED BLACK O                                                           10.000    1  09092019  3        2
+RA1-1658-DEA  2101300000001ASIAGO D ALLEVO DOP                                                            10.000    1  23022016  3        2
+RA1-1658-DEA  2143990000001RENNA MIXED OLIVES D                                                           15.000    1  09092019  3        2
+RA1-1658-DEA  2199180000001PF CHEESE SAMBOSA                                                               3.950    1  17122019  0        1
+RA1-1658-DEA  2199160000001PF CORDON BLUE KEBBE                                                            4.950    1  17122019  0        1
+RA1-1658-DEA  2199120000001KPF VEGETABLE SAMBOS                                                            3.950    1  17122019  0        1
+RA1-1658-DEA  2140080000001DJERBA SALCHICHON VA                                                            1.950    1  24022016  3        1
+RA1-1658-DEA  2140090000001DJERBA TAPAS MIX VAC                                                            2.450    1  24022016  3        1
+RA1-1658-DEA  2140060000001DJERBA CHORIZO VACCU                                                            1.950    1  24022016  3        1
+RA1-1658-DEA  2143330000001OEA PITTED EXTRA LAR                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2143350000001OEA PITTED PITOU BAS                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2186630000001BLUE STILTON COLSTON                                                           25.950    1  07082017  3        2
+RA1-1658-DEA  2143510000001OEA ROASTED RED PEPP                                                           10.000    1  24022016  3        2
+RA1-1658-DEA  2143560000001HOH TURKEY SALAMI PE                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2143580000001HOH TURKEY WIENER SA                                                           10.000    1  24022016  3        2
+RA1-1658-DEA  2143590000001HOH TURKEY SALAMI /K                                                           12.000    1  24022016  3        2
+RA1-1658-DEA  2149600000001LANDANA CHILI /KG                                                               9.950    1  25032015  91       2
+RA1-1658-DEA  2126380000001LANADANA GREEN PESTO                                                           12.950    1  25032015  3        2
+RA1-1658-DEA  2100370000001SPIESS GRISCIUTTO /K                                                           23.000    1  24022016  3        2
+RA1-1658-DEA  2129930000001SPIESS BASTURMA /KG                                                            23.000    1  24022016  3        2
+RA1-1658-DEA  2140860000001GRILLED OYSTER MUSHR                                                            6.500    1  24022016  3        2
+RA1-1658-DEA  2126490000001EYSSEN SMOKED CHEESE                                                            7.950    1  25032015  3        2
+RA1-1658-DEA  2140980000001HOH TURKEY MORTADELL                                                            7.500    1  24022016  3        2
+RA1-1658-DEA  2143790000001CHEDDAR FOUNTAINS GO                                                           11.950    1  07082017  3        2
+RA1-1658-DEA  2144990000001PL TURKEY THIGH MEAT                                                            4.950    1  24022016  3        2
+RA1-1658-DEA  2140040000001LIME LARGE USA /KG                                                              1.850    1  17112015  25       2
+RA1-1658-DEA  2139430000001USA PEACHES KG.                                                                 2.800    1  01022018  25       2
+RA1-1658-DEA  2161870000001DJERBA TURKEY SALCHI                                                           11.000    1  24022016  3        2
+RA1-1658-DEA  2161880000001DJERBA TURKEY CHORIZ                                                           11.000    1  24022016  3        2
+RA1-1658-DEA  2161890000001DJERBA TURKEY SALAMI                                                           11.000    1  24022016  3        2
+RA1-1658-DEA  2100070000001BEEF PASTRAMI DEA                                                               6.500    1  24022016  3        2
+RA1-1658-DEA  2140070000001DJERBA SALAMI VACCUM                                                            1.950    1  24022016  3        1
+RA1-1658-DEA  2103750000001EGGPLANT BABY LONG                                                               .950    1  19112015  0        2
+RA1-1658-DEA  2104170000001GREEN PLUM LEBANON                                                              2.900    1  19112015  0        2
+RA1-1658-DEA  2103310000001CABBAGE SAVOY HOLLAN                                                            1.950    1  23022016  0        2
+RA1-1658-DEA  2105130000001PEPPER JALAPENO RED                                                             4.500    1  19112015  0        2
+RA1-1658-DEA  2100150000001BEEF PASTRAMI ROLL /                                                            6.500    1  24022016  3        2
+RA1-1658-DEA  2100160000001GREEK JARGIR DRY OLI                                                            2.500    1  24022016  3        2
+RA1-1658-DEA  2100240000001TURKEY SMOKED / KG                                                              5.000    1  24022016  3        2
+RA1-1658-DEA  2100170000001LEBANESE SLIC-GREEN                                                             3.900    1  24022016  3        2
+RA1-1658-DEA  2100180000001OLIVES WITH MEXICAN                                                             1.950    1  24022016  3        2
+RA1-1658-DEA  2199990000001HOLLAND TOMATOES CHE                                                            1.500    1  17112015  3        1
+RA1-1658-DEA  2100120000001KIWANO                                                                          4.500    1  23022016  3        2
+RA1-1658-DEA  2199130000001PF MUSHROOM & CHEESE                                                            4.950    1  17122019  0        1
+RA1-1658-DEA  2199150000001PF MEAT KEBBEH                                                                  3.500    1  17122019  0        1
+RA1-1658-DEA  2199140000001PF MEAT SAMBOSA                                                                 4.950    1  17122019  0        1
+RA1-1658-DEA  2199170000001PF CHICKEN SAMBOSA                                                              4.950    1  17122019  0        1
+RA1-1658-DEA  2103220000001BEEF TOMATO HOLLAND                                                             2.250    1  23022016  0        2
+RA1-1658-DEA  2125030000001FALAFEL LOOSE                                                                   3.500    1  17122019  0        2
+RA1-1658-DEA  2133340000001RCP CC BASTOURMA                                                               20.000    1  17122019  0        2
+RA1-1658-DEA  2133360000001RCP CC SLOW ROASTED                                                            20.000    1  17122019  0        2
+RA1-1658-DEA  2176950000001D&D CHICKEN & LEEK Q                                                            1.500    1  08102019  0        2
+RA1-1658-DEA  2131030000001BIBI TURKEY BREAST S                                                            4.500    1  21082017  3        2
+RA1-1658-DEA  2131040000001BIBI SMOKED BEEF SAL                                                            5.250    1  21082017  3        2
+RA1-1658-DEA  2131050000001BIBI BEEF PEPPERONI                                                             5.250    1  21082017  0        2
+RA1-1658-DEA  2176960000001D&D FETA SUNDRIED TO                                                            1.500    1  08102019  0        2
+RA1-1658-DEA  2176980000001D&D MUSHROOM & KALE                                                             1.500    1  08102019  0        2
+RA1-1658-DEA  2142580000001BREAD & CRANBERRY ST                                                            5.000    1  17122019  0        2
+RA1-1658-DEA  2145890000001QUICHE-CHICKEN & LEE                                                            1.500    1  26112019  0        2
+RA1-1658-DEA  2173440000001QUICHE-MUSHROOM & KA                                                            1.500    1  26112019  0        2
+RA1-1658-DEA  2164220000001QUICHE-FETA SUNDRIED                                                            1.500    1  26112019  0        2
+RA1-1658-DEA  2194040000001CHEDDAR MATURE WENSL                                                            7.950    1  22072019  0        2
+RA1-1658-DEA  2194000000001BLUE STILTON-SINGLET                                                           13.000    1  22122019  0        2
+RA1-1658-DEA  2194020000001CHEDDAR COLOURED WEN                                                            7.950    1  22072019  0        2
+RA1-1658-DEA  2194030000001CHEDDAR HOT & SPICY                                                            13.000    1  22072019  0        2
+RA1-1658-DEA  2194070000001WENSLEYDALE YORKSHIR                                                           13.000    1  22072019  0        2
+RA1-1658-DEA  2194050000001MILD CHEDDAR WENSLEY                                                            7.950    1  22072019  0        2
+RA1-1658-DEA  2194060000001SHIRES OF ENGLND WEN                                                           13.000    1  22072019  0        2
+RA1-1658-DEA  2194010000001CHEDDAR ABBOTS GOLD                                                            13.000    1  22072019  0        2
+RA1-1658-DEA  2159760000001SMOKED BEECHWOOD CHE                                                           22.000    1  17122019  0        2
+RA1-1658-DEA  2177890000001BERRY BOUNCING CHEDD                                                           22.000    1  17122019  0        2
+RA1-1658-DEA  2134590000001SPICE GINGER CHEDDAR                                                           22.000    1  17122019  0        2
+RA1-1658-DEA  2123670000001THUNDER GREEN (2KG)                                                            22.000    1  17122019  0        2
+RA1-1658-DEA  2175430000001DEVIL RED CHEDDAR (2                                                           22.000    1  17122019  0        2
+RA1-1658-DEA  2168790000001BOMBER BLACK CHEDDAR                                                           22.000    1  17122019  0        2
+RA1-1658-DEA  2145230000001TRUFFLE LANDANA CHEE                                                            7.500    1  18112019  0        2
+RA1-1658-DEA  2136490000001ORGANIC LANDANA (OLD                                                             .950    1  18112019  0        2
+RA1-1658-DEA  2142350000001MILD CHEDDAR WHITE O                                                            3.500    1  18112019  0        2
+RA1-1658-DEA  2153250000001BLUE STILTON                                                                   10.000    1  18112019  0        2
+RA1-1658-DEA  2159520000001HERBS LANDANA CHEESE                                                            4.000    1  18112019  0        2
+RA1-1658-DEA  2184690000001ORGANIC LANDANA (BIO                                                            3.500    1  18112019  0        2
+RA1-1658-DEA  2192900000001 MIXED PITED OLIVES                                                            12.500    1  18112019  0        2
+RA1-1658-DEA  2193080000001ARTICHOKES STUFFED W                                                           17.500    1  18112019  0        2
+RA1-1658-DEA  2193100000001 PEPPERS STUFFED WIT                                                           17.500    1  18112019  0        2
+RA1-1658-DEA  2193110000001 SEAFOOD SALAD IN BR                                                           17.500    1  18112019  0        2
+RA1-1658-DEA  2193060000001 STUFFED PEPPER ROLL                                                           15.000    1  18112019  0        2
+RA1-1658-DEA  2192950000001 GRILLED BORETTANE O                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2192960000001 GRILLED ZUCCHINI /K                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2193020000001 SEAFOOD SALAD MEDIT                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2193040000001 CAPER BERRIES /KG-R                                                           15.000    1  18112019  0        2
+RA1-1658-DEA  2193070000001 MARINATED SARDINES                                                            12.000    1  18112019  0        2
+RA1-1658-DEA  2193130000001 KING PRAWNS IN SPIC                                                           20.000    1  18112019  0        2
+RA1-1658-DEA  2193010000001 SWEET & SOUR SMALL                                                            12.500    1  18112019  0        2
+RA1-1658-DEA  2193030000001 GREEN PEPPERS STUFF                                                           15.000    1  18112019  0        2
+RA1-1658-DEA  2192880000001 VINE LEAVES STUFFED                                                           10.000    1  18112019  0        2
+RA1-1658-DEA  2103660000001CUCUMBER KUWAIT                                                                 1.125    1  19112015  0        2
+RA1-1658-DEA  2100430000001LETTUCE ROUGETTE WIL                                                            9.950    1  01022018  3        2
+RA1-1658-DEA  2100450000001MASCARPONE GALBANI 5                                                            4.000    1  21052015  3        1
+RA1-1658-DEA  2100500000001HALLOUMI PLAIN                                                                  5.000    1  21052015  3        2
+RA1-1658-DEA  2101520000001CHTOORA ROUND LABNAH                                                            5.000    1  21052015  3        2
+RA1-1658-DEA  2101530000001FETA CHEESE EGYPTIAN                                                            1.950    1  21052015  3        2
+RA1-1658-DEA  2100480000001SMOKED TURKEY/ KGS                                                              5.000    1  24022016  3        2
+RA1-1658-DEA  2101540000001UNSALTED WHITE CHTOO                                                            3.500    1  21052015  3        2
+RA1-1658-DEA  2100380000001STRAWBERRY JORDAN KG                                                            3.950    1  01022018  3        2
+RA1-1658-DEA  2100420000001AVOCADO USA /KGS.                                                               3.500    1  01022018  3        2
+RA1-1658-DEA  2100490000001LABANAH (COW) BALL /                                                            5.500    1  21052015  3        2
+RA1-1658-DEA  2100250000001BUFALA MOZZARELLA 12                                                            1.900    1  21052015  3        1
+RA1-1658-DEA  2100440000001GARLIC / KG.                                                                     .850    1  01022018  3        2
+RA1-1658-DEA  2100410000001GORGONZOLA PICANTE /                                                           13.000    1  21052015  3        2
+RA1-1658-DEA  2101900000001COOKIE OATMEAL ALMON                                                             .750    1  17122019  2        1
+RA1-1658-DEA  2101910000001COOKIE PEANUT BUTTER                                                             .750    1  17122019  2        1
+RA1-1658-DEA  2101930000001COOKIE RED VELVET                                                                .750    1  17122019  2        1
+RA1-1658-DEA  2101960000001COOKIE TRIPLE CHOCOL                                                             .750    1  17122019  2        1
+RA1-1658-DEA  2101950000001COOKIE SALTED CARAME                                                             .750    1  17122019  2        1
+RA1-1658-DEA  2101090000001HELLIX CHEESE                                                                   6.950    1  24022016  3        2
+RA1-1658-DEA  2101010000001CHTOORA LABNEH W/MIN                                                            4.000    1  24022016  3        2
+RA1-1658-DEA  2101020000001CHTOORA LABNEH W/SEE                                                            4.000    1  24022016  3        2
+RA1-1658-DEA  2101040000001CHTOORA LABNEH W/ZAA                                                            4.000    1  24022016  3        2
+RA1-1658-DEA  2198740000001DRAGON  FRUITS WHITE                                                            4.000    1  17112015  0        2
+RA1-1658-DEA  2103160000001POMELO THAILAND.                                                                3.500    1  01022018  0        2
+RA1-1658-DEA  2102630000001STARFRUIT                                                                       6.250    1  23022016  0        2
+RA1-1658-DEA  2198770000001GRANADILLA                                                                      9.500    1  01102015  0        2
+RA1-1658-DEA  2198730000001CACTUS PEAR                                                                     9.500    1  23022016  0        2
+RA1-1658-DEA  2110150000001GINGER BREAD MAN COO                                                             .750    1  17122019  0        1
+RA1-1658-DEA  2101570000001GUAVA                                                                           3.000    1  01102015  0        2
+RA1-1658-DEA  2103150000001MELON  WATER                                                                     .600    1  17112015  0        2
+RA1-1658-DEA  2198720000001BANANA  BABY RED                                                                4.000    1  23022016  0        2
+RA1-1658-DEA  2101580000001JACK FRUITS PEELED 5                                                            2.000    1  23022016  0        2
+RA1-1658-DEA  2103180000001YOUNG COCONUT                                                                   2.500    1  23022016  0        2
+RA1-1658-DEA  2198790000001GRAPES GREEN                                                                    2.750    1  01102015  0        2
+RA1-1658-DEA  2126090000001TALEGGIO /KG                                                                   16.500    1  23022016  3        2
+RA1-1658-DEA  2143940000001RENNA TOMATOES PRONT                                                           12.500    1  09092019  3        2
+RA1-1658-DEA  2101360000001TOMA PIEMONTESE DOP                                                            11.500    1  23022016  3        2
+RA1-1658-DEA  2134900000001GORGONZOLA CHEESE 1.                                                           13.000    1  30052016  3        2
+RA1-1658-DEA  2101500000001PECORINO SARDO /KG                                                             14.500    1  25032015  3        2
+RA1-1658-DEA  2126290000001SMOKED VEAL BACON /K                                                            8.000    1  24022016  3        2
+RA1-1658-DEA  2122320000001PECORINO ROSSO /KG                                                             22.950    1  11062015  3        2
+RA1-1658-DEA  2143620000001WHOLE SIDE OF GRAVAD                                                           19.000    1  24022016  3        2
+RA1-1658-DEA  2126350000001LANDANA NETTLE 4KG                                                              9.950    1  25032015  3        2
+RA1-1658-DEA  2143690000001WHOLE HICKORY SMOKED                                                           12.000    1  24022016  3        2
+RA1-1658-DEA  2149610000001LANDANA RED PESTO /K                                                           12.950    1  25032015  91       2
+RA1-1658-DEA  2146540000001SMOKED SCAMORZA /KG                                                             9.500    1  23022016  3        2
+RA1-1658-DEA  2130750000001RENNA SHRIMPS IN OIL                                                           14.000    1  09092019  3        2
+RA1-1658-DEA  2143770000001WENSLEYDALE SHEEP /K                                                           16.000    1  07082017  3        2
+RA1-1658-DEA  2186480000001APPLE RED JUMBO                                                                 1.500    1  23022016  3        2
+RA1-1658-DEA  2192890000001 MEDITERRANEAPITED B                                                           10.000    1  18112019  0        2
+RA1-1658-DEA  2192920000001 RUSTICA OLIVES /KG-                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2192970000001 BLACK OLIVES DI CER                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2192940000001 BOSCAIOLA OLIVES /K                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2192990000001 MASHED GREEN OLIVES                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2193000000001 GRILLED GREEN OLIVE                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2193120000001 OCTOPUS GRAN MARE /                                                           14.000    1  18112019  0        2
+RA1-1658-DEA  2192870000001 LECCINO OLIVES /KG-                                                           10.000    1  18112019  0        2
+RA1-1658-DEA  2192980000001 BLACK OLIVES CALABR                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2192910000001 PAESANA OLIVES /KG-                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2193050000001 STUFFED AUBERGINE R                                                           15.000    1  18112019  0        2
+RA1-1658-DEA  2193090000001 MARINATED ANCHOVY I                                                           12.000    1  18112019  0        2
+RA1-1658-DEA  2188700000001RENNA STUFFED PEPPER                                                           15.000    1  18112019  0        2
+RA1-1658-DEA  2166700000001RENNA MEDITERRANEAPI                                                           10.000    1  18112019  0        2
+RA1-1658-DEA  2177200000001RENNA RUSTICA OLIVES                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2166500000001RENNA LECCINO OLIVES                                                           10.000    1  18112019  0        2
+RA1-1658-DEA  2177300000001RENNA BOSCAIOLA OLIV                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2177400000001RENNA GRILLED BORETT                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2177800000001RENNA BLACK OLIVES C                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2177900000001RENNA MASHED GREEN O                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2188800000001RENNA MARINATED SARD                                                           17.500    1  18112019  0        2
+RA1-1658-DEA  2188900000001ARTICHOKES STUFFED W                                                           17.500    1  18112019  0        2
+RA1-1658-DEA  2177100000001RENNA PAESANA OLIVES                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2188100000001RENNA GRILLED GREEN                                                            12.500    1  18112019  0        2
+RA1-1658-DEA  2166600000001RENNA VINE LEAVES ST                                                           10.000    1  18112019  0        2
+RA1-1658-DEA  2188200000001RENNA SWEET & SOUR S                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2188300000001RENNA SEAFOOD SALAD                                                            12.500    1  18112019  0        2
+RA1-1658-DEA  2188400000001RENNA GREEN PEPPERS                                                            15.000    1  18112019  0        2
+RA1-1658-DEA  2177700000001RENNA MIXED PITED OL                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2177500000001RENNA GRILLED ZUCCHI                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2177600000001RENNA BLACK OLIVES D                                                           12.500    1  18112019  0        2
+RA1-1658-DEA  2188500000001RENNA CAPER BERRIES                                                            15.000    1  18112019  0        2
+RA1-1658-DEA  2188600000001RENNA STUFFED AUBERG                                                           15.000    1  18112019  0        2
+RA1-1658-DEA  2166200000001CHEDDAR YELLOW MILD                                                             4.500    1  10112019  0        2
+RA1-1658-DEA  2166400000001GRANDOR GOUDA CHEESE                                                            4.500    1  10112019  0        2
+RA1-1658-DEA  2166100000001CHEDDAR WHITE MILD 8                                                            4.500    1  10112019  0        2
+RA1-1658-DEA  2166300000001GRAND OR BLUE CHEESE                                                            5.500    1  10112019  0        2
+RA1-1658-DEA  2132750000001QUICHE FETA SUNDRIED                                                            1.500    1  19112019  0        2
+RA1-1658-DEA  2132460000001QUICHE MUSHROOM & KA                                                            1.500    1  19112019  0        2
+RA1-1658-DEA  2146820000001QUICHE CHICKEN & LEE                                                            1.500    1  19112019  0        2
+RA1-1658-DEA  2192760000001CHILLED WAGYU BEEF P                                                           62.500    1  04092019  0        2
+RA1-1658-DEA  2192730000001CHILLED VEAL TARTUFO                                                           35.000    1  04092019  0        2
+RA1-1658-DEA  2192750000001CHILLED WAGYU BEEF C                                                           50.000    1  04092019  0        2
+RA1-1658-DEA  2192710000001CHILLED VEAL SALAMI                                                            20.000    1  04092019  0        2
+RA1-1658-DEA  2192720000001CHILLED VEAL PROSCIU                                                           28.000    1  04092019  0        2
+RA1-1658-DEA  2192700000001CHILLED BEEF BREASOL                                                           28.000    1  04092019  0        2
+RA1-1658-DEA  2192790000001CHILLED WAGYU BEEF B                                                           50.000    1  04092019  0        2
+RA1-1658-DEA  2189190000001CHERRIES USA KG.                                                                8.000    1  01022018  3        2
+RA1-1658-DEA  2106910000001USA MANGOES KG                                                                  3.500    1  23022016  3        2
+RA1-1658-DEA  2106930000001MELON CANTALOP KG                                                               1.950    1  07052019  3        2
+RA1-1658-DEA  2106500000001CHILE PLUM RED KG.                                                              1.750    1  01022018  3        2
+RA1-1658-DEA  2157520000001ORGANIC GINGER CHINA                                                            4.900    1  25032015  3        2
+RA1-1658-DEA  2158160000001ORGANIC APPLES RED                                                              3.400    1  04022016  3        2
+RA1-1658-DEA  2102090000001KUMQUATS ARGENTENAIN                                                            4.500    1  25032015  3        2
+RA1-1658-DEA  2102110000001LONGANS FRUITS THAI                                                             4.500    1  25032015  3        2
+RA1-1658-DEA  2100850000001KIWI NZ /KG                                                                     1.950    1  25032015  1        2
+RA1-1658-DEA  2101860000001YELLOW PLUM / KG.                                                               2.900    1  01022018  0        2
+RA1-1658-DEA  2143850000001APRICOT SPAIN / KG                                                              4.000    1  23022016  0        2
+RA1-1658-DEA  2106950000001USA LIMES ORGANIC.                                                              3.900    1  01022018  3        2
+RA1-1658-DEA  2105900000001RADISH RED LOCAL / K                                                             .650    1  23022016  25       2
+RA1-1658-DEA  2106320000001HOLLAND LETTUCE - RE                                                            4.500    1  17112015  3        2
+RA1-1658-DEA  2190920000001POTATO SWEET (HOLLAN                                                            2.950    1  23022016  3        2
+RA1-1658-DEA  2157490000001ORGANIC CABBAGE WHIT                                                            3.200    1  01022018  3        2
+RA1-1658-DEA  2102180000001BROCOLLI AUSTRALIA /                                                            2.750    1  01022018  3        2
+RA1-1658-DEA  2146610000001ESSENTIALS EGGPLANT                                                             2.250    1  25032015  0        1
+RA1-1658-DEA  2146710000001ESSENTIALS CARROTS C                                                            1.250    1  25032015  0        1
+RA1-1658-DEA  2146730000001ESSENTIALS CAULIFLOW                                                            1.000    1  25032015  0        1
+RA1-1658-DEA  2142140000001POMEGRANATE-2                                                                   1.500    1  23022016  0        2
+RA1-1658-DEA  2199210000001PRF PRAWN THAI RED C                                                           14.500    1  17122019  0        2
+RA1-1658-DEA  2199380000001CAPSICUM YELLOW HOLL                                                            2.950    1  23022016  3        2
+RA1-1658-DEA  2199390000001LETTUCE ROUGETTE ( W                                                           12.000    1  18042015  3        2
+RA1-1658-DEA  2199400000001LETTUCE - LOLO BIOND                                                            4.500    1  17112015  3        2
+RA1-1658-DEA  2199410000001MUSHROOM HOLLAND.                                                               2.950    1  01022018  3        2
+RA1-1658-DEA  2199420000001TOMATOES LOCAL /KG-1                                                             .490    1  23022016  3        2
+RA1-1658-DEA  2199430000001EGYPTIAN STRAWBERRY                                                             2.150    1  01022018  3        2
+RA1-1658-DEA  2199440000001AVOCADO USA KG                                                                  2.850    1  18042015  3        2
+RA1-1658-DEA  2199450000001LOCAL LETTUCE - ARAB                                                             .800    1  01022018  3        2
+RA1-1658-DEA  2199460000001TOMATOES CHERRY RED                                                             1.100    1  23022016  3        1
+RA1-1658-DEA  2199470000001KIWI NEW ZEALAND/ KG                                                            1.750    1  23022016  3        2
+RA1-1658-DEA  2199480000001CAPSICUM RED HOLLAND                                                            2.250    1  23022016  3        2
+RA1-1658-DEA  2199500000001CAPSICUM RED EGYPT K                                                            1.750    1  23022016  25       2
+RA1-1658-DEA  2199510000001CAPSICUM RED JORDAN                                                             1.750    1  01022018  25       2
+RA1-1658-DEA  2199520000001CAPSICUM YELLOW JORD                                                            1.750    1  23022016  25       2
+RA1-1658-DEA  2199530000001SOUR POMEGRANATE EGY                                                             .950    1  23022016  25       2
+RA1-1658-DEA  2199540000001STRAWBERRY FRESH / K                                                            3.950    1  01022018  1        2
+RA1-1658-DEA  2199550000001GARLIC CHINEESE KG                                                               .850    1  23022016  3        2
+RA1-1658-DEA  2199560000001HERBS DILL LOCAL KG                                                              .750    1  18042015  0        2
+RA1-1658-DEA  2199570000001SPRING ONION                                                                    1.000    1  04082015  0        2
+RA1-1658-DEA  2103130000001LONGKONG                                                                        4.000    1  01102015  0        2
+RA1-1658-DEA  2103140000001MELON  HONEYDEW                                                                 2.250    1  17112015  0        2
+RA1-1658-DEA  2101600000001KAKA.                                                                           4.500    1  01022018  0        2
+RA1-1658-DEA  2198760000001FIGS  BLACK                                                                     2.500    1  01102015  0        2
+RA1-1658-DEA  2110190000001GINGER SNOW MAN COOK                                                             .750    1  17122019  0        1
+RA1-1658-DEA  2103040000001APRICOT LEBANON                                                                 1.950    1  23022016  0        2
+RA1-1658-DEA  2100510000001AKKAWI /KG                                                                      3.000    1  25052015  10       2
+RA1-1658-DEA  2100530000001PLAIN LABNEH                                                                    5.500    1  25052015  10       2
+RA1-1658-DEA  2144160000001PINEBERRY  100 GRAMS                                                            2.750    1  23022016  0        1
+RA1-1658-DEA  2111180000001TOMME DE BERRY TRUFF                                                            5.750    1  03112019  0        2
+RA1-1658-DEA  2111100000001VALCASOTTO                                                                      4.250    1  03112019  0        2
+RA1-1658-DEA  2121100000001DOLCE CAPRIZIOLA GOA                                                            5.250    1  03112019  0        2
+RA1-1658-DEA  2111190000001TOMME DE BERRY TOMAT                                                            4.750    1  03112019  0        2
+RA1-1658-DEA  2141100000001CACIOCAVALLO DI BUFF                                                            4.000    1  03112019  0        2
+RA1-1658-DEA  2171100000001RAMBOL SOUMAN                                                                  10.000    1  03112019  0        2
+RA1-1658-DEA  2151100000001FOL EPI                                                                         5.000    1  03112019  0        2
+RA1-1658-DEA  2161100000001RAMBOL NOIX                                                                     8.750    1  03112019  0        2
+RA1-1658-DEA  2128540000001SAINT ALBRAY                                                                    9.000    1  03112019  0        2
+RA1-1658-DEA  2191100000001RAMBOL ALL FINE HERB                                                           10.000    1  03112019  0        2
+RA1-1658-DEA  2132560000001PUDDING YORKSHIRE                                                               5.000    1  17122019  0        2
+RA1-1658-DEA  2101690000001CHTOORA LABNEH BALLS                                                            6.450    1  24022016  3        2
+RA1-1658-DEA  2101730000001CHTOORA LABNEH BALLS                                                            6.000    1  24022016  3        2
+RA1-1658-DEA  2101640000001CHTOORA NABULSI /KG                                                             5.250    1  24022016  3        2
+RA1-1658-DEA  2101750000001SHELLAL CHEESE                                                                  3.950    1  24022016  3        2
+RA1-1658-DEA  2101660000001CHTOORA LABNEH PLAIN                                                            3.250    1  24022016  3        2
+RA1-1658-DEA  2101770000001DOUBLE CREAM CHEESE                                                             1.950    1  24022016  3        2
+RA1-1658-DEA  2101680000001CHTOORA LABNEH BALLS                                                            6.450    1  24022016  3        2
+RA1-1658-DEA  2101700000001CHTOORA LABNEH BALLS                                                            6.450    1  24022016  3        2
+RA1-1658-DEA  2101760000001SHELLAL CHEESE/BUTTE                                                            3.950    1  24022016  3        2
+RA1-1658-DEA  2102620000001TOMATO CHERRY HOLLAN                                                            3.750    1  23022016  0        1
+RA1-1658-DEA  2102120000001NAMDO KMAI MANGO                                                                3.950    1  17112015  0        2
+RA1-1658-DEA  2102690000001YORKSHIRE PUDDING                                                               5.000    1  17122019  0        1
+RA1-1658-DEA  2102750000001CHICKEN & LEEK TERRI                                                           10.950    1  17122019  0        2
+RA1-1658-DEA  2102840000001SMOKED ATLANTIC SALM                                                           17.950    1  24022016  3        2
+RA1-1658-DEA  2102290000001SMOKED ATLANTIC SALM                                                           18.950    1  24022016  3        2
+RA1-1658-DEA  2102600000001SMOKED ATLANTIC SALM                                                           18.950    1  24022016  3        2
+RA1-1658-DEA  2103230000001BEET ROOT LEBANON                                                                .950    1  23022016  0        2
+RA1-1658-DEA  2105000000001PAKCHOI (USA).                                                                  2.250    1  01022018  0        2
+RA1-1658-DEA  2198220000001BEEF BRESOLA/ KG                                                               19.250    1  24022016  3        2
+RA1-1658-DEA  2198210000001JENNIE O TURKEY BREA                                                           14.000    1  24022016  3        2
+RA1-1658-DEA  2198200000001JENNIE - O BREAST OI                                                           14.000    1  24022016  3        2
+RA1-1658-DEA  2197480000001BLUE STILTON WDP /KG                                                           15.000    1  21072019  0        2
+RA1-1658-DEA  2120020000001D&D MULTIGRAIN LOAF                                                              .950    1  26012016  3        1
+RA1-1658-DEA  2106720000001FRICO HERB DUTCH BAL                                                            6.950    1  02062016  0        2
+RA1-1658-DEA  2197380000001BEEF BRESAOLA - CITT                                                           20.000    1  18082016  3        2
+RA1-1658-DEA  2197390000001ROAST BEEF                                                                      8.000    1  18082016  3        2
+RA1-1658-DEA  2197400000001SMOKED TURKEY THIGH                                                             8.000    1  18082016  3        2
+RA1-1658-DEA  2197410000001TURKEY BREAST                                                                   9.000    1  12032018  3        2
+RA1-1658-DEA  2197460000001CHEDDAR HOT & SPICY                                                            13.000    1  03082017  3        2
+RA1-1658-DEA  2197470000001SHIRES OF ENGLAND WE                                                           13.000    1  03082017  3        2
+RA1-1658-DEA  2106850000001BEEF PASTRAMI- BRAND                                                           10.000    1  21092016  3        2
+RA1-1658-DEA  2198180000001SMOKED ATLANTIC SALM                                                           17.950    1  06042016  0        2
+RA1-1658-DEA  2197450000001CHEDDAR ABBOTS GOLD                                                            13.000    1  03082017  3        2
+RA1-1658-DEA  2197440000001YORKSHIRE WENSLEYDAL                                                           13.000    1  21072019  3        2
+RA1-1658-DEA  2142530000001PF KALE QUINOA SALAD                                                            9.950    1  17122019  0        2
+RA1-1658-DEA  2142510000001PF MALABAR CHICKEN C                                                            9.950    1  17122019  0        2
+RA1-1658-DEA  2142500000001PF NASI GORING                                                                  4.500    1  17122019  0        2
+RA1-1658-DEA  2142520000001PF LAMB MASSAMAN CUR                                                            9.950    1  17122019  0        2
+RA1-1658-DEA  2106880000001LE MONTAGNARD COMTE                                                            12.950    1  19092016  3        1
+RA1-1658-DEA  2107060000001LA POINTE PERCEE AOC                                                           19.950    1  19092016  3        1
+RA1-1658-DEA  2107050000001TOMME DE SAVOIE                                                                19.950    1  19092016  3        1
+RA1-1658-DEA  2106840000001BEEF SALAMI - BRAND                                                            10.000    1  21092016  3        2
+RA1-1658-DEA  2106890000001CORSU VECCHIU SHEEPS                                                           19.950    1  19092016  3        1
+RA1-1658-DEA  2106960000001PRESIDENT SAINT PAUL                                                           12.950    1  19092016  3        1
+RA1-1658-DEA  2107020000001FLOR DE ESGUEVA SHEE                                                           12.950    1  19092016  3        1
+RA1-1658-DEA  2107030000001ISTARA OSSAU IRATY S                                                           12.950    1  19092016  3        1
+RA1-1658-DEA  2106870000001TURKEY PASTRAMI -BRA                                                           10.000    1  21092016  3        2
+RA1-1658-DEA  2107070000001COMTE LE MONTAGNARD                                                            12.950    1  21092016  3        2
+RA1-1658-DEA  2199580000001MASCARPONE LAT BRI 5                                                            6.950    1  18042015  3        2
+RA1-1658-DEA  2199590000001GERMAN CHEDDAR CHEES                                                            4.900    1  23022016  3        2
+RA1-1658-DEA  2199600000001RASPBERRY PC- USA.                                                              2.250    1  01022018  3        1
+RA1-1658-DEA  2199610000001D&D BLACKBERRY.                                                                 1.950    1  01022018  3        1
+RA1-1658-DEA  2199620000001BLUEBERRY USA- PC                                                               2.250    1  01022018  3        1
+RA1-1658-DEA  2199630000001MOZZARELLA BUFALA 12                                                            1.900    1  23022016  3        1
+RA1-1658-DEA  2199660000001GORGONZOLA PICCANTE                                                            13.000    1  18042015  3        2
+RA1-1658-DEA  2100010000001GRILLED HAMMOUR WITH                                                           11.950    1  17122019  0        2
+RA1-1658-DEA  2107640000001HOLLAND CHILI PEPPER                                                            6.500    1  25032015  3        2
+RA1-1658-DEA  2107230000001USA GARLIC WHITE ORG                                                            5.000    1  01022018  3        2
+RA1-1658-DEA  2139890000001BABY - SPINACH ITALY                                                            8.950    1  01022018  3        2
+RA1-1658-DEA  2139670000001ONION BROWN KG.                                                                 1.250    1  01022018  25       2
+RA1-1658-DEA  2103480000001MUSHROOM CHITAKI HOL                                                            9.000    1  01022018  3        2
+RA1-1658-DEA  2103400000001POTATO - NEW BABY HO                                                            2.250    1  23022016  3        2
+RA1-1658-DEA  2103580000001ZUCHINI GREEN/ --KG                                                             3.500    1  23022016  3        2
+RA1-1658-DEA  2165370000001HOLLAND LETTUCE - OA                                                            4.750    1  17112015  3        2
+RA1-1658-DEA  2157650000001ORGANIC PUMPKIN ORAN                                                            3.750    1  01022018  3        1
+RA1-1658-DEA  2102310000001GREEN KENYA BEANS KG                                                            4.500    1  25032015  3        2
+RA1-1658-DEA  2150170000001CHINESE CABBAGE                                                                 3.500    1  23022016  0        2
+RA1-1658-DEA  2100460000001BRUSSELS SPROUTS / K                                                            2.900    1  01022018  3        2
+RA1-1658-DEA  2146700000001ESSENTIALS RED CABBA                                                            1.250    1  25032015  0        1
+RA1-1658-DEA  2103540000001PEARS /KG                                                                       2.250    1  23022016  3        2
+RA1-1658-DEA  2130280000001TICKLEMORE /KG                                                                 16.000    1  03082017  3        2
+RA1-1658-DEA  2162350000001GOUDA LIGHT FRICO /K                                                            6.950    1  25032015  3        2
+RA1-1658-DEA  2162360000001FRICO MATURED EDAM B                                                            7.950    1  25032015  3        2
+RA1-1658-DEA  2126130000001MONTEREY JACK BLOCK                                                             4.000    1  23022016  3        2
+RA1-1658-DEA  2126120000001CHEESE MONTEREY JACK                                                            4.000    1  23022016  3        2
+RA1-1658-DEA  2143950000001RENNA MIXED PITTED O                                                           10.000    1  09092019  3        2
+RA1-1658-DEA  2164150000001KASHKAVAL HUNGARIAN                                                             3.500    1  23022016  3        2
+RA1-1658-DEA  2126270000001ELITE PASTRMAI ROUND                                                            7.000    1  24022016  3        2
+RA1-1658-DEA  2101510000001CASTELMAGNO DOP /KG                                                            20.000    1  23022016  3        2
+RA1-1658-DEA  2122890000001NOTTINGHAMSHIRE BLUE                                                           19.950    1  23022016  3        2
+RA1-1658-DEA  2100060000001LEYLA BULGARI UNSALT                                                            5.000    1  23022016  3        2
+RA1-1658-DEA  2143420000001OEA VARIETAL SPANISH                                                           12.000    1  24022016  3        2
+RA1-1658-DEA  2143430000001OEA VARIETAL SICILIA                                                           12.000    1  24022016  3        2
+RA1-1658-DEA  2143440000001OEA VARIETAL ITALIAN                                                           15.000    1  24022016  3        2
+RA1-1658-DEA  2143540000001HOH TURKEY GRILL ROA                                                           14.000    1  24022016  3        2
+RA1-1658-DEA  2122300000001PECORINO DOLCE /KG                                                             15.000    1  23022016  3        2
+RA1-1658-DEA  2122360000001QUICKES DOUBLE GLOUC                                                           14.500    1  07082017  3        2
+RA1-1658-DEA  2143630000001WHOLE SIDE OF GRAVAD                                                           19.000    1  23022016  0        2
+RA1-1658-DEA  2143670000001PRIME RIB EYE MEDIUM                                                           19.000    1  24022016  3        2
+RA1-1658-DEA  2126340000001LANDANA GARLIC 4KG                                                              9.950    1  23022016  3        2
+RA1-1658-DEA  2126360000001LANDANA MUSTARD 4KG                                                             9.950    1  23022016  3        2
+RA1-1658-DEA  2143870000001GH FARMED SEVRUGA CA                                                          500.000    1  24022016  3        2
+RA1-1658-DEA  2143880000001GH FARMED FARMED BEL                                                         1500.000    1  24022016  3        2
+RA1-1658-DEA  2126400000001LANDANA WASABI 4KG                                                             12.950    1  23022016  3        2
+RA1-1658-DEA  2126410000001LANDANA BLUE /KG                                                               13.950    1  23022016  3        2
+RA1-1658-DEA  2130710000001RENNA SEAFOOD SALAD                                                            16.000    1  24022016  3        2
+RA1-1658-DEA  2143700000001NORTHAMPTONSHIRE BLU                                                           11.950    1  23022016  3        2
+RA1-1658-DEA  2143760000001WEST COUNTRY FARMHOU                                                           10.000    1  07082017  3        2
+RA1-1658-DEA  2143820000001LA ANTIGUA 9M /KG                                                              18.000    1  23022016  3        2
+RA1-1658-DEA  2120410000001PLUM LEBANON /KG                                                                2.200    1  23022016  3        2
+RA1-1658-DEA  2162850000001CACTUS FIG EGYPT KG                                                             1.750    1  23022016  25       2
+RA1-1658-DEA  2189200000001CHERRIES AUSTARALIA                                                             9.950    1  01022018  3        2
+RA1-1658-DEA  2107080000001CORSU VECCHIU SHEEP                                                            19.950    1  21092016  3        2
+RA1-1658-DEA  2107120000001ISTARA OSSAU IRATY S                                                           12.950    1  21092016  3        2
+RA1-1658-DEA  2107130000001TOMME DE SAVOIE LA P                                                           19.950    1  21092016  3        2
+RA1-1658-DEA  2107140000001LA POINTE PERCEE AOC                                                           19.950    1  21092016  3        2
+RA1-1658-DEA  2107090000001SAINT PAULIN SEMI FI                                                           12.950    1  21092016  3        2
+RA1-1658-DEA  2107110000001FLOR DE ESGUEVA SHEE                                                           12.950    1  21092016  3        2
+RA1-1658-DEA  2197160000001LA POINTE TOME DE SA                                                           19.950    1  26092016  0        2
+RA1-1658-DEA  2197140000001ROQUEFORT KILO                                                                 16.500    1  26092016  0        2
+RA1-1658-DEA  2197150000001BEAUFORT LA POINTE P                                                           19.950    1  26092016  3        2
+RA1-1658-DEA  2122800000001PTIT BASQUE ISTARA S                                                           19.950    1  30092016  3        2
+RA1-1658-DEA  2107180000001WESTMINSTER VINTAGE                                                             7.950    1  04102016  3        2
+RA1-1658-DEA  2107150000001WENSLEYDALE MILD CHE                                                            7.950    1  21072019  3        2
+RA1-1658-DEA  2107170000001CHEDDAR MATURE WENSL                                                            7.950    1  21072019  3        2
+RA1-1658-DEA  2107190000001HELIX /KG                                                                       6.950    1  04102016  3        2
+RA1-1658-DEA  2107210000001VALBRESCO CHEESE /KG                                                            6.950    1  04102016  3        2
+RA1-1658-DEA  2107220000001FOURME DAMBERT /KG                                                             12.950    1  04102016  3        2
+RA1-1658-DEA  2107160000001CHEDDAR COLOURED WEN                                                            7.950    1  03082017  3        2
+RA1-1658-DEA  2107280000001SF CHESTNUTS / KG                                                               5.950    1  14102016  3        2
+RA1-1658-DEA  2107290000001SF RED ONION / KG.                                                               .500    1  01022018  3        2
+RA1-1658-DEA  2107260000001TB SMOKED TURKEY BRE                                                           12.950    1  14102016  3        2
+RA1-1658-DEA  2107250000001TB ROAST BEEF                                                                  12.950    1  14102016  3        2
+RA1-1658-DEA  2107270000001TB TURKEY BREAST                                                               12.950    1  14102016  3        2
+RA1-1658-DEA  2107330000001KIT CALVERT /KG                                                                10.250    1  24102016  3        2
+RA1-1658-DEA  2196440000001D&D BLUEBERRY.                                                                  1.950    1  01022018  0        1
+RA1-1658-DEA  2196510000001D&D RASPBERRY.                                                                  1.950    1  01022018  0        1
+RA1-1658-DEA  2196500000001RASPBERRY 125G MEXIC                                                            1.950    1  01022018  0        1
+RA1-1658-DEA  2196450000001BLACKBERRY PKT USA.                                                             2.250    1  01022018  3        1
+RA1-1658-DEA  2196460000001BLUE BERRY MEXICO (1                                                            1.950    1  01022018  0        1
+RA1-1658-DEA  2196490000001BLUEBERRY PORTUGAL 1                                                            1.950    1  01022018  25       1
+RA1-1658-DEA  2106520000001CARROT PUREE                                                                    4.450    1  17122019  0        2
+RA1-1658-DEA  2106530000001SIDE GREEN SALAD                                                                6.450    1  17122019  0        2
+RA1-1658-DEA  2198800000001BRIE DE MEAUX /KG                                                              10.500    1  24022016  3        2
+RA1-1658-DEA  2198820000001COMTE GRAND AFFINAGE                                                           14.950    1  24022016  3        2
+RA1-1658-DEA  2198810000001TOMME CRAYEUSE /KG                                                             15.750    1  24022016  3        2
+RA1-1658-DEA  2120880000001CHEESE PROMO- 3 (RET                                                            2.240    1  17122019  0        1
+RA1-1658-DEA  2120830000001D&D CHEESEBOARD                                                                 4.950    1  17122019  3        1
+RA1-1658-DEA  2120860000001CHEESE PROMO- 2 (RET                                                            7.000    1  17122019  0        1
+RA1-1658-DEA  2120850000001CHEESE PROMO- 1 (RET                                                            5.000    1  17122019  0        1
+RA1-1658-DEA  2197500000001TILAMOOK MEDIUM CHED                                                            9.950    1  02082016  0        2
+RA1-1658-DEA  2197490000001KALAMATA OLIVES SEED                                                            3.000    1  02082016  0        2
+RA1-1658-DEA  2107490000001TB PEPPERED TURKEY B                                                           12.950    1  12012017  3        2

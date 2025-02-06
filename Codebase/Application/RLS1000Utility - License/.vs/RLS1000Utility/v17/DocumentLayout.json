@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\licensingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\licensingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|c:\\pegasus\\weigh scale rls1000 plu uploader\\codebase\\application\\rls1000utility\\rls1000utility\\dataaccess\\appconfigurationdasqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\dataaccess\\appconfigurationdasqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\dataaccess\\dacommonsqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\dataaccess\\dacommonsqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\dataaccess\\idacommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\dataaccess\\idacommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\aboutusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\aboutusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\aboutusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\aboutusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\dataaccess\\pludaoledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\dataaccess\\pludaoledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\dataaccess\\sqlsystemda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\dataaccess\\sqlsystemda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\dataaccess\\abstractsystemda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\dataaccess\\abstractsystemda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\dataaccess\\dacommonoledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\dataaccess\\dacommonoledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\dataaccess\\dacommonsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\dataaccess\\dacommonsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\licensingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\licensingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\scaleutilityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\scaleutilityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\rls1000utility\\scaleutilityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FFEB686-7685-4707-B0C7-7BEDA13EFB93}|RLS1000Utility\\RLS1000Utility.csproj|solutionrelative:rls1000utility\\scaleutilityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDACommon.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\IDACommon.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\DataAccess\\IDACommon.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\IDACommon.cs",
+              "RelativeToolTip": "RLS1000Utility\\DataAccess\\IDACommon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:36:37.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutUsForm.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\AboutUsForm.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\AboutUsForm.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\AboutUsForm.cs",
+              "RelativeToolTip": "RLS1000Utility\\AboutUsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:52:49.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutUsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\AboutUsForm.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\AboutUsForm.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\AboutUsForm.cs [Design]",
+              "RelativeToolTip": "RLS1000Utility\\AboutUsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:47:11.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PLUDAOleDB.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\PLUDAOleDB.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\DataAccess\\PLUDAOleDB.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\PLUDAOleDB.cs",
+              "RelativeToolTip": "RLS1000Utility\\DataAccess\\PLUDAOleDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:30:47.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppConfigurationDASqLite.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\AppConfigurationDASqLite.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\DataAccess\\AppConfigurationDASqLite.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\AppConfigurationDASqLite.cs",
+              "RelativeToolTip": "RLS1000Utility\\DataAccess\\AppConfigurationDASqLite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:14:46.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQLSystemDA.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\SQLSystemDA.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\DataAccess\\SQLSystemDA.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\SQLSystemDA.cs",
+              "RelativeToolTip": "RLS1000Utility\\DataAccess\\SQLSystemDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:43:13.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AbstractSystemDA.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\AbstractSystemDA.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\DataAccess\\AbstractSystemDA.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\AbstractSystemDA.cs",
+              "RelativeToolTip": "RLS1000Utility\\DataAccess\\AbstractSystemDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:43:04.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\App.config",
+              "RelativeDocumentMoniker": "RLS1000Utility\\App.config",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\App.config",
+              "RelativeToolTip": "RLS1000Utility\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-05T12:55:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LicensingForm.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\LicensingForm.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\LicensingForm.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\LicensingForm.cs",
+              "RelativeToolTip": "RLS1000Utility\\LicensingForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:08:39.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DACommonSqLite.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\DACommonSqLite.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\DataAccess\\DACommonSqLite.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\DACommonSqLite.cs",
+              "RelativeToolTip": "RLS1000Utility\\DataAccess\\DACommonSqLite.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAI8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:37:15.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DACommonOLEDB.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\DACommonOLEDB.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\DataAccess\\DACommonOLEDB.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\DACommonOLEDB.cs",
+              "RelativeToolTip": "RLS1000Utility\\DataAccess\\DACommonOLEDB.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:51:51.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DACommonSQL.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\DACommonSQL.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\DataAccess\\DACommonSQL.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\DataAccess\\DACommonSQL.cs",
+              "RelativeToolTip": "RLS1000Utility\\DataAccess\\DACommonSQL.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:23:19.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\Program.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\Program.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\Program.cs",
+              "RelativeToolTip": "RLS1000Utility\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:13:57.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LicensingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\LicensingForm.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\LicensingForm.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\LicensingForm.cs [Design]",
+              "RelativeToolTip": "RLS1000Utility\\LicensingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:12:08.144Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaleUtilityForm.cs [Design]",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\ScaleUtilityForm.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\ScaleUtilityForm.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\ScaleUtilityForm.cs [Design]",
+              "RelativeToolTip": "RLS1000Utility\\ScaleUtilityForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:03:50.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaleUtilityForm.cs",
+              "DocumentMoniker": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\ScaleUtilityForm.cs",
+              "RelativeDocumentMoniker": "RLS1000Utility\\ScaleUtilityForm.cs",
+              "ToolTip": "C:\\Pegasus\\Weigh Scale RLS1000 PLU uploader\\Codebase\\Application\\RLS1000Utility\\RLS1000Utility\\ScaleUtilityForm.cs",
+              "RelativeToolTip": "RLS1000Utility\\ScaleUtilityForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJMEAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:26:40.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

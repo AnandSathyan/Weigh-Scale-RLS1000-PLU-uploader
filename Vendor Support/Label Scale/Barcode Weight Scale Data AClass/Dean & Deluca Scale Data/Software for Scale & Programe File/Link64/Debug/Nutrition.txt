@@ -1,0 +1,79 @@
+2	aaa	bbb	ccc	5	1	1	0	0		Calories	1	
+2	aaa	bbb	ccc	5	2	2	0	0		Calories from Fat	1	
+2	aaa	bbb	ccc	5	3	3	0	0		Calories from saturat. Fat	1	
+2	aaa	bbb	ccc	5	4	4	0	0		Total Fat	1	
+2	aaa	bbb	ccc	5	5	5	0	0		Saturated Fat	1	
+123	aaa	bbb	ccc	5	1	1	0	0		Calories	1	
+123	aaa	bbb	ccc	5	2	2	0	0		Calories from Fat	1	
+123	aaa	bbb	ccc	5	3	3	0	0		Calories from saturat. Fat	1	
+123	aaa	bbb	ccc	5	4	4	0	0		Total Fat	1	
+123	aaa	bbb	ccc	5	5	5	0	0		Saturated Fat	1	
+8498				22	1	100	10	0	g	Î¬ÉúËØx	1	
+8498				22	2	0	0	0		CALORIES FROM FAT	1	
+8498				22	3	0	0	0		TOTAL FAT	1	
+8498				22	4	0	0	0		SATURATED FAT	1	
+8498				22	5	0	0	0		TRANS FAT	1	
+8498				22	6	0	0	0		cholesterol	1	
+8498				22	7	0	0	0		sodium	1	
+8498				22	8	0	0	0		carbohydrate	1	
+8498				22	9	0	0	0		fibre	1	
+8498				22	10	0	0	0		sugars	1	
+8498				22	11	0	0	0		protein	1	
+8498				22	12	0	0	0		vitamin A 	1	
+8498				22	13	0	0	0		vitamin C	1	
+8498				22	14	0	0	0		calcium	1	
+8498				22	15	0	0	0		iron	1	
+8498				22	16	0	0	0		Calcium	1	
+8498				22	17	0	0	0		Dietary Fiber	1	
+8498				22	18	0	0	0		Iron	1	
+8498				22	19	0	0	0		Protein	1	
+8498				22	20	0	0	0		Sugar Alcohols	1	
+8498				22	21	0	0	0		Thiamine	1	
+8498				22	22	0	0	0		Vitamin E	1	
+900001	aaa	bbb	ccc	11	1	0	0	0		CALORIES	1	
+900001	aaa	bbb	ccc	11	2	0	0	0		CALORIES FROM FAT	1	
+900001	aaa	bbb	ccc	11	3	0	0	0		TOTAL FAT	1	
+900001	aaa	bbb	ccc	11	4	0	0	0		SATURATED FAT	1	
+900001	aaa	bbb	ccc	11	5	0	0	0		TRANS FAT	1	
+900001	aaa	bbb	ccc	11	6	0	0	0		cholesterol	1	
+900001	aaa	bbb	ccc	11	7	0	0	0		sodium	1	
+900001	aaa	bbb	ccc	11	8	0	0	0		carbohydrate	1	
+900001	aaa	bbb	ccc	11	9	0	0	0		fibre	1	
+900001	aaa	bbb	ccc	11	10	0	0	0		sugars	1	
+900001	aaa	bbb	ccc	11	12	0	0	0		vitamin A 	1	
+900002	b21	c21	d21	3	1	10	5	0		Calories	2	
+900002	b21	c21	d21	3	2	11	6	0		Calories from Fat	2	
+900002	b21	c21	d21	3	3	12	7	0		Calories from saturat. Fat	2	
+900003				11	1	0	0	0		CALORIES	1	
+900003				11	2	0	0	0		CALORIES FROM FAT	1	
+900003				11	3	0	0	0		TOTAL FAT	1	
+900003				11	4	0	0	0		SATURATED FAT	1	
+900003				11	5	0	0	0		TRANS FAT	1	
+900003				11	6	0	0	0		cholesterol	1	
+900003				11	7	0	0	0		sodium	1	
+900003				11	8	0	0	0		carbohydrate	1	
+900003				11	9	0	0	0		fibre	1	
+900003				11	10	0	0	0		sugars	1	
+900003				11	12	0	0	0		vitamin A 	1	
+900004				11	1	0	0	0		CALORIES	1	
+900004				11	2	0	0	0		CALORIES FROM FAT	1	
+900004				11	3	0	0	0		TOTAL FAT	1	
+900004				11	4	0	0	0		SATURATED FAT	1	
+900004				11	5	0	0	0		TRANS FAT	1	
+900004				11	6	0	0	0		cholesterol	1	
+900004				11	7	0	0	0		sodium	1	
+900004				11	8	0	0	0		carbohydrate	1	
+900004				11	9	0	0	0		fibre	1	
+900004				11	10	0	0	0		sugars	1	
+900004				11	12	0	0	0		vitamin A 	1	
+900011				11	1	0	12	0		CALORIES	1	
+900011				11	2	0	2	0		CALORIES FROM FAT	1	
+900011				11	3	0	0	0		TOTAL FAT	1	
+900011				11	4	0	0	0		SATURATED FAT	1	
+900011				11	5	0	0	0		TRANS FAT	1	
+900011				11	6	0	0	0		cholesterol	1	
+900011				11	7	0	0	0		sodium	1	
+900011				11	8	0	0	0		carbohydrate	1	
+900011				11	9	0	0	0		fibre	1	
+900011				11	10	0	0	0		sugars	1	
+900011				11	12	0	0	0		vitamin A 	1	

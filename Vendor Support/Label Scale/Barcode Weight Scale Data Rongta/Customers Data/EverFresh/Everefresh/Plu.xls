@@ -1,0 +1,42 @@
+Hotkey	PLU name	LF Code	Code	Barcode type	Unit Price	Weight unit	Quantity type	Department	Tare	Shelf time	Package type	Package weight	Tolerance (%)	Message 1	Message 2	Label	Discount/Schedule	Account	sPluFieldTitle20	Account	Recommended days	Nutrition	Ice Content (%)	VAT(%)
+1	Andra Murukku White	1001	1001	99	5.5	Kg	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+2	Andra Hot Murukku	2002	2002	99	5.5	PCS(Kg)	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+3	Bulndi Mix Hot/Spicy	2003	2003	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+4	Fried Green Piees	2004	2004	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+5	Fried PeaNut Spicy	2005	2005	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+6	Gram flw PeaNut Mix	2006	2006	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+7	Fried Chena Dall Spicy	2007	2007	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+8	Gram flw Cashnut W/Spicy	2008	2008	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+9	Hot Mix Mixture	2009	2009	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+10	Mixture Yellow W/Spicy	2010	2010	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+11	Mixture Hours Dall Mix	2011	2011	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+12	Plan Mixture Spicy	2012	2012	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+13	Malabar Pakkavada	2013	2013	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+14	Malabar Chakil Murukku	2014	2014	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+15	Malabar Butter Murukku spicy	2015	2015	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+16	Malabar Butter Murukku w/sp	2016	2016	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+17	Potota Chips White	2017	2017	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+18	Potota Chips Red	2018	2018	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+19	Topico Chips	2019	2019	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+20	Sweet Finger Stick	2020	2020	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+21	Ladu Brown	2021	2021	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+22	Ladu Red	2022	2022	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+23	Ladu Yellow	2023	2023	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+24	Gulab Jam	2024	2024	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+25	Sweet Kaja Roll	2025	2025	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+26	Adimathuram Red	2026	2026	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+27	Adimathuram Yellow	2027	2027	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+28	Mysoor Pak	2028	2028	99	5.5	4	0	21	0	15	0	0	0	0	0	0	0	0		0	0	0	0	
+29	3 color Ladu Plastick Box	2029	2029	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+30	2 color Ladu Plastic Box	2030	2030	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+31	Bannan Chips	2031	2031	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+32	RasaGula	2032	2032	99	5.5	4	0	21	0	30	0	0	0	0	0	0	0	0		0	0	0	0	
+33	Muruku	2033	2033	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+34	Jelebi  Red	2034	2034	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+35	Jelebi Yellow	2035	2035	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+36	Sweet sheel	2036	2036	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+37	Hot Sheel	2037	2037	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+38	Mini Appadam Spicy	2038	2038	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+39	Mini Appadam Salt	2039	2039	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+40	Mixture Color	2040	2040	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	
+41	Vampos mIxture with peanut	2041	2041	99	5.5	4	0	21	0	10	0	0	0	0	0	0	0	0		0	0	0	0	

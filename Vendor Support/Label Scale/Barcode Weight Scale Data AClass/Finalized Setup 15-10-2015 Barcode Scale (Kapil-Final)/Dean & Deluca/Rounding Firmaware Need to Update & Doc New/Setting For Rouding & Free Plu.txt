@@ -1,0 +1,19 @@
+1) First Update Firmware  LSX_English_V6.054
+
+2) Rounding set  - 11
+
+3) Amount set- T.TT0
+
+
+if after arabic is not coming then need to updated this frimware LSX_ALB_V6.054
+
+We need to set Rounding in the new scales.
+
+Example price : -
+
+If 0.441 , 0.442 , 0.443 , 0.444  = it should be 0.445
+If 0.446 , 0.447 , 0.448 , 0.449  = it should be 0.450
+
+
+For Free Plu Keep Price 0 For put price while printing
+

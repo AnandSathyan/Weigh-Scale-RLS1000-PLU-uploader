@@ -1,0 +1,20 @@
+1	Vitamin X	1000	g	1	1	
+2	CALORIES FROM FAT	0		0	0	
+3	TOTAL FAT	0		0	0	
+4	SATURATED FAT	0		0	0	
+5	TRANS FAT	0		0	0	
+6	cholesterol	0		0	0	
+7	sodium	0		0	0	
+8	carbohydrate	0		0	0	
+9	fibre	0		0	0	
+10	sugars	0		0	0	
+11	protein	0		0	0	
+12	vitamin A 	0		0	0	
+13	vitamin C	0		0	0	
+14	calcium	0		0	0	
+15	iron	0		0	0	
+16	Calcium	0		0	0	
+17	Dietary Fiber	0		0	0	
+18	Iron	0		0	0	
+19	Protein	0		0	0	
+20	Sugar Alcohols	0		0	0	

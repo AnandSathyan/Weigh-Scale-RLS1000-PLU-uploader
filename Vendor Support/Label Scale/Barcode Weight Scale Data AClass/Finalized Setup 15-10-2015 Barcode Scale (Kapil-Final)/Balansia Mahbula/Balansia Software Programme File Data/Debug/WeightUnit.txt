@@ -1,0 +1,26 @@
+0		50g	
+1		g	
+2		10g	
+3		100g	
+4		kg	
+5		oz	
+6		Lb	
+7		500g	
+8		600g	
+9		PCS(g)	
+10		PCS(Kg)	
+11		PCS(oz)	
+12		PCS(Lb)	
+13		Bundle	
+14		PCS type1	
+15		PCS type2	
+16		PCS type3	
+17		PCS type4	
+18		PCS type5	
+19		PCS type6	
+20		PCS type7	
+21		PCS type8	
+22		PCS type9	
+23		PCS type10	
+24		Currency	
+25		PZS	

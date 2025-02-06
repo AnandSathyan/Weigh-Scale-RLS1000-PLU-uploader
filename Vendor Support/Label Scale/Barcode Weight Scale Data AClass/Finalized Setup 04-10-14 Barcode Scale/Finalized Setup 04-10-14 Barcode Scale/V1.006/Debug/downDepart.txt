@@ -1,0 +1,12 @@
+1	Fruit	
+2	Vegetable	
+3	Sea Food	
+4	Rice Dish	
+5	Ice Tea	
+6	Meat	
+7	Vagetable	
+8	Fruit	
+9	Sea Food	
+10	·\õ›A_	
+11	Vagetable	
+12	Fruit?	

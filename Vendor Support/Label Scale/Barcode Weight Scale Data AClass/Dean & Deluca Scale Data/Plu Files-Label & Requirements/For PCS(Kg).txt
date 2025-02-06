@@ -1,0 +1,5 @@
+where its pcs just select the PCS(KG)
+
+do not put the weight for the pcs just put the Qty - 10 press qtty button
+
+after press plu number after print

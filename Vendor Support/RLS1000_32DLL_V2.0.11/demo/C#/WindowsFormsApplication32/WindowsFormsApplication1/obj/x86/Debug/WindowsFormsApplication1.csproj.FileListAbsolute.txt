@@ -1,0 +1,81 @@
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.dll
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.pdb
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.xml
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\job\dll\CShare\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.dll
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.pdb
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.xml
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\job\dll_WChar\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.manifest
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.application
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.dll
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.pdb
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.xml
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\job\dll\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.manifest
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.application
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.dll
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.pdb
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.xml
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\work\SFC_AiScale\trunk\src\RTScaledll\dll_Win32\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.application
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.pdb
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsF.C2CC1009.Up2Date
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Pegasus\Weigh Scale RLS1000 PLU uploader\Vendor Support\RLS1000_32DLL_V2.0.11\demo\C#\WindowsFormsApplication32\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

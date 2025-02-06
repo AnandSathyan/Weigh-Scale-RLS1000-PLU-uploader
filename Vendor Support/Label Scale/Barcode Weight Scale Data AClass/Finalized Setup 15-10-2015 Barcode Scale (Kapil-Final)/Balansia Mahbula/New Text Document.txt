@@ -1,0 +1,12 @@
+Dep. - 20
+
+item - 1001
+
+group - 0
+
+price - 5
+
+cheksum - 1
+
+
+2010010125269

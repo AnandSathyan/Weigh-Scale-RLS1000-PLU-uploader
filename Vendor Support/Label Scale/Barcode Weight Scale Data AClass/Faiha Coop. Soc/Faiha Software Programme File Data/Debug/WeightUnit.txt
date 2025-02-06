@@ -1,0 +1,26 @@
+0		50g	
+1		g	
+2		10g	
+3		100g	
+4		kg	
+5		oz	
+6		Lb	
+7		500g	
+8		600g	
+9		TEM(g)	
+10		TEM(Kg)	
+11		TEM(oz)	
+12		TEM(Lb)	
+13		Bundle	
+14		TEM type1	
+15		TEM type2	
+16		TEM type3	
+17		TEM type4	
+18		TEM type5	
+19		TEM type6	
+20		TEM type7	
+21		TEM type8	
+22		TEM type9	
+23		TEM type10	
+24		Currency	
+25		PZS	

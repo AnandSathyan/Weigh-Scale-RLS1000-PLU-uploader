@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="addInfoForm.pas"/>
+    <File Path="addInfoForm.dfm"/>
+    <File Path="MainForm.pas"/>
+    <File Path="MainForm.dfm"/>
+    <File Path="superobject.pas"/>
+    <File Path="uDllInterface.pas"/>
+    <File Path="uGlobalFun.pas"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.659,E:\job\dll\demo\delphi\addInfoForm.pas=E:\job\dll\demo\delphi\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.659,E:\job\dll\demo\delphi\addInfoForm.dfm=E:\job\dll\demo\delphi\Unit1.dfm</Transaction>
+    <Transaction>2023/08/07 10:09:36.000.295,D:\work\LabelScale\src\dll\dll_Win32\demo\delphi\otherForm.dfm=D:\work\LabelScale\src\dll\dll_Win32\demo\delphi\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
